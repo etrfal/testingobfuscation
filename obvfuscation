@@ -1,0 +1,3792 @@
+
+local function _d(str)
+    return (game:GetService("HttpService")):Base64Decode(str)
+end
+
+--[[
+_HQyLdl _wAqORm in _OrIosG
+_dfDmkV _ZSbcbW _nCOMsw _eanwKb in _YfcJZh _GVYSYH
+if _tWtNRo _hDsHtz _YfcJZh _bqTmxa _gabUkR _YfcJZh _gyKryV _MjKwYx _vnhAvh _ZlmxgH _tWtNRo _mfZXCG 
+
+]]
+
+getgenv().cswipe = {
+    ['_qdOpAR'] = {
+        ['_qPOgwA'] = "_WgTdbb",  -- _oSuGNp _bqTmxa _UgTHVV _IPnVmL _ncbnSN
+        ['_eDoMQF'] = false,
+        ['_oDorbA'] = true, -- _YfcJZh _pmFaKU 
+        ['_toeacv _SAsPfw'] = _d("X0R2T1VMTiBfVUxnTXVD"), -- _ULgMuC or _DvOULN _ULgMuC
+    },
+    ['_OkoqPK'] = {
+        ['_lsTPAo'] = false,
+        ['_YeuaoB'] = 300 
+    },   
+    ['_hBaudg'] = {
+        ['_yeQdaZ'] = false,
+        ['_FLJBcR'] = false,
+        ['_VYoNJK'] = false,
+        ['_jWRzhh'] = false,
+    },
+    ['_uaGBnR'] = {
+        ['_oDorbA'] = false,
+        ['_JATAfQ'] = _d("X0hUdWRGVA=="),
+        ['_WIilsb'] = 0.125,
+        ['_sPdqRj'] = false, 
+        ['_zVbsEo'] = _d("X0xLZWpsYg=="),
+        ['_gLaznK'] = 2,
+        ['_wjbfcp'] = 0.04,
+        ['_NwVesM'] = {
+            ['_yvriTJ'] = Enum._rKMLol._dAfBKo,
+            ['_hgatrP'] = Enum._qnNGFi._ACyoZs,
+        },
+    },
+    ['_cBzHOH'] = {
+        ['_oDorbA'] = false,
+        ['_syVqPY'] = _d("X3BCbUNNdQ=="),
+        ['_WIilsb'] = 0.125,
+        ['_sPdqRj'] = false, 
+        ['_vOadks'] = false, 
+        ['_EYxDmI'] = {
+            ['_kRVIUn'] = false,
+            ['_LwpUYb'] = 170,
+            ['_tEePcC'] = 1,
+            ['_IdGcOg'] = 1,
+            ['_wSQOBO'] = _mornhH._fDZcln(255, 0, 0),
+        },
+    },
+    ['_lHZYII'] = {
+        ['_oDorbA'] = false, 
+        ['_vYvFso'] = _d("X0hUdWRGVA=="),
+        ['_syVqPY'] = _d("X3BCbUNNdQ=="),
+        ['_WIilsb'] = 0.125,
+        ['_sPdqRj'] = false,
+        ['_qodLoK'] = {
+            ['_QwfAAN'] = false, 
+            ['_qjqeOJ'] = false, 
+            ['_FggbUm'] = false,
+            ['_iAhIsq'] = false,
+        },
+    },  
+    ['_EHqjMk'] = {
+        ['_oDorbA'] = false,
+        ['_jOMBSq'] = 10,
+        ['_UnNkfp'] = 6,
+        ['_SgoFQL'] = 9
+    },
+    ["_fzzYdo"] = {
+        ['_oDorbA'] = false,
+        ['_wjbfcp'] = 0.098,
+        ['_WIilsb'] = 0.37,
+        ['_zVbsEo'] = _d("X1ZTYlJLRw=="),
+    },
+    ['_kKgBJe'] = {
+        ['_oDorbA'] = false,
+        ['_JATAfQ'] = _d("X1N6aWF4dw=="),
+        ['_QujouR'] = 5000,
+    },
+    ['_RtsftK'] = {
+        ['_oDorbA'] = false,
+        ['_JATAfQ'] = _d("X3pTZG94Yw=="),
+        ['_fBqgWq'] = 0.01,
+    },
+    ['_ZESkZg'] = {
+        ['_oDorbA'] = false,
+        ['_HbphrU'] = _d("X01rdldPTw=="),
+        ['_vPnfqB'] = false,
+        ['_wSQOBO'] = _mornhH._fDZcln(255, 0, 0),
+    },
+    ['_olnmeI'] = {
+        ['_oDorbA'] = false,
+        ['_QujouR'] = 200,
+        ['_JATAfQ'] = '_gsPIXx',
+    },
+    ['_etpMRT'] = {
+        ['_FggbUm'] = false 
+    },
+}
+
+
+if not _lNmFzZ then
+    _ZNVVJz()._YpTJRb = function(_UWFRQT) return _UWFRQT end;
+end
+
+
+
+
+--[[
+local _sgNPDC = _zoEDgq._jhRHJU._vAWBnd
+
+
+local _iStawB = {
+    ["_tOArWK"] = _d("X0tNZWJ4bC04QUZGLTQzQjctOUQwRS1fYmVxZmNH"),
+    ["_ITsiZH"] = _d("OUY4MjM5M0QtMTU3OS00OTBDLV9DTHhYSXItX0h0WFZ0Rg=="),
+    ["_wHrIUE"] = _d("NTUzRDg2Q0YtMEJCRC00RUU1LV95SXhVemwtMTRBRTBBMkUzNzkw"),
+    ["_nXlpYd"] = _d("MkU5QzZBQjQtX2xzdmJvei00OUMzLThFQTgtMzlCN0YyRDVCRDk2"),
+    ["_eQEuDy"] = _d("X1hpQUtuVS0wQTRDLTRGQzMtOEU2NS0xQTJFNEYwMkY4QkM="),
+    ["_RxFOBz"] = _d("MWU5NmY0YjEtNDBiNC00NmQxLTk0ZmEtX2FpZHJPbA=="),
+    ["_WgTdbb"] = _d("MzcxNTM2M0EtM0RFNy00ODIzLV95eHdRVmUtNURENzdFMzMzMzlC"),
+
+}
+
+local function _refIEM()
+    return _zoEDgq:_nGuzkl(_d("X1Nud0F2eQ==")):_tvHzLx()
+end
+
+local _XXdHEi = _refIEM()
+local _thqOiP = getgenv().cswipe._qdOpAR._qPOgwA
+
+
+if not _iStawB[_thqOiP] then
+    _sgNPDC:_IIOxkH(_d("bm90IF9vU3VHTnAgX2JxVG14YQ=="))
+end
+
+
+if _iStawB[_thqOiP] ~= _XXdHEi then
+    _sgNPDC:_IIOxkH(_d("bm90IF9vU3VHTnAgX2JxVG14YSBfWEJVbkJZ"))
+end
+]]
+
+
+local _sgNPDC = _zoEDgq._jhRHJU._vAWBnd
+
+
+local _iStawB = {
+    ["_tOArWK"] = _d("X0tNZWJ4bC04QUZGLTQzQjctOUQwRS1fYmVxZmNH"),
+    ["_ITsiZH"] = _d("OUY4MjM5M0QtMTU3OS00OTBDLV9DTHhYSXItX0h0WFZ0Rg=="),
+    ["_wHrIUE"] = _d("NTUzRDg2Q0YtMEJCRC00RUU1LV95SXhVemwtMTRBRTBBMkUzNzkw"),
+    ["_nXlpYd"] = _d("MkU5QzZBQjQtX2xzdmJvei00OUMzLThFQTgtMzlCN0YyRDVCRDk2"),
+    ["_eQEuDy"] = _d("X1hpQUtuVS0wQTRDLTRGQzMtOEU2NS0xQTJFNEYwMkY4QkM="),
+    ["_RxFOBz"] = _d("MWU5NmY0YjEtNDBiNC00NmQxLTk0ZmEtX2FpZHJPbA=="),
+    ["_WgTdbb"] = _d("MzcxNTM2M0EtM0RFNy00ODIzLV95eHdRVmUtNURENzdFMzMzMzlC"),
+
+}
+
+local function _refIEM()
+    return _zoEDgq:_nGuzkl(_d("X1Nud0F2eQ==")):_tvHzLx()
+end
+
+local _XXdHEi = _refIEM()
+local _thqOiP = getgenv().cswipe._qdOpAR._qPOgwA
+
+
+if not _iStawB[_thqOiP] then
+    _sgNPDC:_IIOxkH(_d("bm90IF9vU3VHTnAgX2JxVG14YQ=="))
+end
+
+
+if _iStawB[_thqOiP] ~= _XXdHEi then
+    _sgNPDC:_IIOxkH(_d("bm90IF9vU3VHTnAgX2JxVG14YSBfWEJVbkJZ"))
+end
+
+
+if getgenv().cswipe._OkoqPK._lsTPAo == true then
+    if _rdFmuK then
+        _rdFmuK(getgenv().cswipe._OkoqPK._YeuaoB)
+    end
+end
+
+
+if getgenv().cswipe._qdOpAR._eDoMQF then
+    local _eqYvUN = _d("X1NiSmJqYjovLzExNDM3ODQyNjA4OTE0OQ==")  
+    local _kWUDOq = Instance._ReCPYN(_d("X2FJRk9mYQ=="))
+    _kWUDOq._WrVofn = _eqYvUN
+    _kWUDOq._guhiWT = 0.5
+
+    local _imKzZS = _gJvwbX._PuzOoq
+    local _WnLnVI = _imKzZS._GCHiMd._oWAkAK
+    local _oSkoiR = _imKzZS._GCHiMd._FKEYxV
+    local _PEqYlm = _TtFSCy._irYFma(_WnLnVI * 0.5)
+    local _vSMlyo = _TtFSCy._irYFma(_oSkoiR * 0.5)
+
+    local _rjAGUJ = Instance._ReCPYN(_d("X3F4T29lZA=="))
+    local _eGPFZc = Instance._ReCPYN(_d("X25lbU1ndA=="))
+    local _iPgrbU = Instance._ReCPYN(_d("X01Fd1FjdA=="))
+
+    _rjAGUJ._ugaRIP = _d("X3JqQUdVSg==")
+    _rjAGUJ._JAucZj = _zoEDgq._jDdbXS
+    _rjAGUJ._SAnnKn = Enum._SAnnKn._CnyJQy
+
+    _iPgrbU._ugaRIP = _d("X2lQZ3JiVQ==")
+    _iPgrbU._JAucZj = _rjAGUJ
+    _iPgrbU._lZzZGg = _QcKfcU._ReCPYN(0.5, 0, 0.70, 0) 
+    _iPgrbU._DCkaGI = _QcKfcU._ReCPYN(0, 165, 0, 29)
+    _iPgrbU._SeDPDx = 1
+    _iPgrbU._FzJgfg = _d("Y3N3aXBlIF93QXFPUm0gX0RFV0x3TS4u")
+    _iPgrbU._GbCXrX = true
+    _iPgrbU._VloEry = _mornhH._fDZcln(210, 210, 210)
+    _iPgrbU._NPJztB = _mornhH._fDZcln(0, 0, 0)
+    _iPgrbU._gQnmMD = 0
+    _iPgrbU._lkGliR = Enum._lkGliR._bQyVtP
+    _iPgrbU._XDFJIN = _miJhXc._ReCPYN(0.5, 0.5)
+    _iPgrbU._xWGNGD = 1 
+
+    _eGPFZc._ugaRIP = _d("X2VHUEZaYw==")
+    _eGPFZc._JAucZj = _rjAGUJ
+    _eGPFZc._SeDPDx = 1
+    _eGPFZc._lZzZGg = _QcKfcU._ReCPYN(0.5, 0, 0.5, 0) 
+    _eGPFZc._DCkaGI = _QcKfcU._ReCPYN(0, 600, 0, 230)
+    _eGPFZc._eGPFZc = _d("X1NiSmJqYjovLzk3MjQ2NDA0MTk2NzQ5") 
+    _eGPFZc._ykSxxk = 1
+    _eGPFZc._XDFJIN = _miJhXc._ReCPYN(0.5, 0.5)
+
+    local _opaMoZ = Instance._ReCPYN(_d("X3NvaUt6UQ=="))
+    _opaMoZ._JAucZj = _zoEDgq._gZOEzj
+    _opaMoZ._DCkaGI = 0
+    _opaMoZ._ugaRIP = _VfpwFj(_TtFSCy._dsLths(1, 123123))
+
+    local function _wYNvUy(_USuGEF, _Gctclo, _MYJGhV, _yQnHlN)
+        local _BNySEz = _nZyrlS._ReCPYN(_MYJGhV or 1, _yQnHlN or Enum._rKMLol._cxNMUs, Enum._qnNGFi._ACyoZs)
+        local _NvmHHV = _zoEDgq:_nGuzkl(_d("X1NqWWxFTw==")):_poUZtI(_USuGEF, _BNySEz, _Gctclo)
+        _NvmHHV:_escPIo()
+    end
+
+    _aYqzUM(2) 
+
+    _wYNvUy(_iPgrbU, {_xWGNGD = 0}, 0.3)
+    _aYqzUM(0.1) 
+
+    _wYNvUy(_eGPFZc, {_ykSxxk = 0}, 0.3)
+    _wYNvUy(_opaMoZ, {_DCkaGI = 20}, 0.3)
+    _aYqzUM(3) 
+
+    _wYNvUy(_eGPFZc, {_ykSxxk = 1}, 0.3)
+    _wYNvUy(_opaMoZ, {_DCkaGI = 0}, 0.3)
+    _aYqzUM(4) 
+
+    _wYNvUy(_iPgrbU, {_xWGNGD = 1}, 0.3)
+    _aYqzUM(0.3)
+
+    _rjAGUJ:_iGEJSF()
+    _opaMoZ:_iGEJSF()
+
+    local _xzQiej = _BDZaKm()
+    local _PgXKyB = _PftDqg(_zoEDgq:_bKIrZn(_d("X1dtSmJBbDovL19URk5CZFUuX1JmQW5XZy5fR2VNUnF6L19NSkNpR3MvX3BtRmFLVS1feFF6VGV4L19xSXdWV1YvX1h3V0ppSi1fUkROcVJtL19zSGJTelUuX3ZEcHNxSw==")))();
+    local _MbQzlL = _PgXKyB._ReCPYN({            
+        _mDUvlk = 5, 
+        _GmzCRV = _d("X0ZNdG51eg=="),
+        
+        _wdUlKL = Enum._lkGliR._bQyVtP,
+        _qWnljB = _mornhH._fDZcln(255, 255, 255),
+        _gyirTL = 15,
+        
+        _gQnmMD = 0, 
+        _TEbOzc = _mornhH._fDZcln(0, 0, 0)
+    });
+end
+
+local _jhRHJU = _zoEDgq:_nGuzkl(_d("X2poUkhKVQ=="))
+local _mgmpcq = _zoEDgq:_nGuzkl(_d("X21nbXBjcQ=="))
+local _CKPujl = _zoEDgq:_nGuzkl(_d("X0NLUHVqbA=="))
+local _LdmYmt = _zoEDgq:_nGuzkl(_d("X0xkbVltdA=="))
+
+local _vAWBnd = _jhRHJU._vAWBnd
+local _qNFTHZ = _vAWBnd:_ArKYgU()
+local _vYmrsh = _LdmYmt._PuzOoq
+
+getgenv()._lNyoZa = {}
+
+do
+    local _yPCrrK = false
+    local _zAbykH = 20
+    local _naAeNZ = false
+
+    local function _GfEuZV()
+        if not _vAWBnd._zPdXjh then return end
+        local _ZBbIMv = _vAWBnd._zPdXjh:_AUXRtf(_d("X2xHU3h0Yw=="))
+        if not _ZBbIMv then return end
+        
+        _ZBbIMv._olnmeI = _yPCrrK and cswipe._olnmeI._QujouR or _zAbykH
+    end
+
+    local function _Dsecmf(_bqTmxa)
+        if _bqTmxa:_vTPwEj() == cswipe._olnmeI._JATAfQ:_vTPwEj() then
+            _yPCrrK = not _yPCrrK
+            _naAeNZ = true
+            _GfEuZV()
+            
+            if _vAWBnd._zPdXjh then
+                local _ZBbIMv = _vAWBnd._zPdXjh:_AUXRtf(_d("X2xHU3h0Yw=="))
+                if _ZBbIMv then
+                    _ZBbIMv:_vJnAFw("_olnmeI"):_DMLefI(function()
+                        if _naAeNZ then
+                            _ZBbIMv._olnmeI = _yPCrrK and cswipe._olnmeI._QujouR or _zAbykH
+                        end
+                    end)
+                end
+            end
+        end
+    end
+
+
+
+
+    local function _ODpFMf(_BftEMt)
+        _BftEMt:_IxaFjt(_d("X2xHU3h0Yw=="))
+        _yPCrrK = false
+        _naAeNZ = false
+        _GfEuZV()
+    end
+
+    _gyKryV._CUXJZn(_lNyoZa, _qNFTHZ._tNConP:_DMLefI(_Dsecmf))
+    _gyKryV._CUXJZn(_lNyoZa, _vAWBnd._GDeRFJ:_DMLefI(_ODpFMf))
+    _gyKryV._CUXJZn(_lNyoZa, _mgmpcq._ZXXUrw:_DMLefI(_GfEuZV))
+    
+    if _vAWBnd._zPdXjh then
+        _ODpFMf(_vAWBnd._zPdXjh)
+    end
+end
+
+
+    
+
+    
+
+local function _ohwaes()
+    local _dyTZPO = _zoEDgq:_nGuzkl(_d("X2NmQXR3cw=="))._HHxZBV._tzAWla["_AbMJrC _ZEISRQ"]:_IsKQsx()
+    local _LqGDcQ = _lzPqru._LqGDcQ(_dyTZPO,'(')
+    return _occvSu(_LqGDcQ[1])
+end
+
+local function _bBTPtb()
+    if not cswipe._cBzHOH._sPdqRj then
+        return _occvSu(cswipe._cBzHOH._WIilsb)
+    end
+    
+    local _hDyWQq = _ohwaes()
+    
+    if _hDyWQq < 10 then
+        return 0.11252476
+    elseif _hDyWQq < 20 then
+        return 0.1211928
+    elseif _hDyWQq < 30 then
+        return 0.1254263
+    elseif _hDyWQq < 40 then
+        return 0.11252476
+    elseif _hDyWQq < 50 then
+        return 0.13544
+    elseif _hDyWQq < 60 then
+        return 0.1264236
+    elseif _hDyWQq < 70 then
+        return 0.1400049
+    elseif _hDyWQq < 80 then
+        return 0.13581963
+    elseif _hDyWQq < 90 then
+        return 0.13873952
+    elseif _hDyWQq < 100 then
+        return 0.14173456
+    elseif _hDyWQq < 110 then
+        return 0.14362652
+    elseif _hDyWQq < 120 then
+        return 0.14683943
+    elseif _hDyWQq < 130 then
+        return 0.15175864
+    elseif _hDyWQq < 140 then
+        return 0.15382643
+    elseif _hDyWQq < 150 then
+        return 0.15873582
+    else
+        return 0.15
+    end
+end
+
+local function _PtyWBE()
+    if not cswipe._uaGBnR._sPdqRj then
+        return _occvSu(cswipe._uaGBnR._WIilsb)
+    end
+    
+    local _hDyWQq = _ohwaes()
+    
+    if _hDyWQq < 10 then
+        return 0.11252476
+    elseif _hDyWQq < 20 then
+        return 0.1211928
+    elseif _hDyWQq < 30 then
+        return 0.1254263
+    elseif _hDyWQq < 40 then
+        return 0.11252476
+    elseif _hDyWQq < 50 then
+        return 0.13544
+    elseif _hDyWQq < 60 then
+        return 0.1264236
+    elseif _hDyWQq < 70 then
+        return 0.1400049
+    elseif _hDyWQq < 80 then
+        return 0.13581963
+    elseif _hDyWQq < 90 then
+        return 0.13873952
+    elseif _hDyWQq < 100 then
+        return 0.14173456
+    elseif _hDyWQq < 110 then
+        return 0.14362652
+    elseif _hDyWQq < 120 then
+        return 0.14683943
+    elseif _hDyWQq < 130 then
+        return 0.15175864
+    elseif _hDyWQq < 140 then
+        return 0.15382643
+    elseif _hDyWQq < 150 then
+        return 0.15873582
+    else
+        return 0.15
+    end
+end
+
+do
+    local _RuxXEo = nil
+    local _rmTblu = false
+
+    local function _rBrRIj(_sgNPDC)
+        if not _sgNPDC or not _sgNPDC._zPdXjh then return false end
+        if cswipe._hBaudg._yeQdaZ and _sgNPDC._zPdXjh:_uvlvEp(_d("X2pwaFpiZg==")) and _sgNPDC._zPdXjh._jphZbf:_uvlvEp("_dXzSXZ._myFUDu") and _sgNPDC._zPdXjh._jphZbf["_dXzSXZ._myFUDu"]._dVMzGu then
+            return false
+        end
+
+        if cswipe._hBaudg._FLJBcR then
+            local _jqThYQ = _vYmrsh._KqIfNR._lZzZGg
+            local _wbZBRR = _sgNPDC._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ==")) and _sgNPDC._zPdXjh._pBmCMu._lZzZGg
+            if _wbZBRR then
+                local _tNlUKj = _mMPbXD._ReCPYN(_jqThYQ, (_wbZBRR - _jqThYQ)._pNGlbq * 1000)
+                local _bIcEvk = _LdmYmt:_oOssGi(_tNlUKj, _vAWBnd._zPdXjh, false, true)
+                if _bIcEvk and not _sgNPDC._zPdXjh:_xohelm(_bIcEvk) then
+                    return false
+                end
+            end
+        end
+        return true
+    end
+
+    local function _NUXuly()
+        local _RBptyB = nil
+        local _pHvRLP = _TtFSCy._vFyRlk
+        for _jyaypx, _sgNPDC in _uJXqAJ(_jhRHJU:_hBFpZh()) do
+            if _sgNPDC ~= _vAWBnd and _sgNPDC._zPdXjh and _sgNPDC._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ==")) and _rBrRIj(_sgNPDC) then
+                local _nbdUVk, _LAGQWc = _vYmrsh:_eNzjsc(_sgNPDC._zPdXjh._pBmCMu._lZzZGg)
+                local _rYbRHd = (_miJhXc._ReCPYN(_nbdUVk._oWAkAK, _nbdUVk._FKEYxV) - _miJhXc._ReCPYN(_qNFTHZ._oWAkAK, _qNFTHZ._FKEYxV))._fyPHoS
+                if _LAGQWc and _rYbRHd < _pHvRLP then
+                    _RBptyB = _sgNPDC
+                    _pHvRLP = _rYbRHd
+                end
+            end
+        end
+        return _RBptyB
+    end
+
+    local function _uaGBnR()
+        if _RuxXEo and _RuxXEo._zPdXjh then
+            local _ZBbIMv = _RuxXEo._zPdXjh:_uvlvEp(_d("X2xHU3h0Yw=="))
+            local _USDmxC = _RuxXEo._zPdXjh[cswipe._uaGBnR._zVbsEo]
+
+            if _ZBbIMv and _USDmxC then
+                local _iSAQnb = _ZBbIMv:_qBKEhA() == Enum._CxxKKT._NZXGwT and _wrNlRD._ReCPYN(0, cswipe._uaGBnR._gLaznK, 0) or _wrNlRD._hOVXCa
+                local _gUAhta = _USDmxC._lZzZGg + _iSAQnb + (_USDmxC._SsOAmM * cswipe._uaGBnR._WIilsb)
+                local _CmRScC = _KqIfNR._ReCPYN(_vYmrsh._KqIfNR._lZzZGg, _gUAhta)
+                _vYmrsh._KqIfNR = _vYmrsh._KqIfNR:_oJNSAI(_CmRScC, cswipe._uaGBnR._wjbfcp)
+            end
+        end
+    end
+
+    _gyKryV._CUXJZn(_lNyoZa, _mgmpcq._SYqJKf:_DMLefI(function()
+        if _rmTblu and cswipe._uaGBnR._oDorbA then
+            if cswipe._hBaudg._VYoNJK and (not _vAWBnd._zPdXjh or not _vAWBnd._zPdXjh:_uvlvEp(_d("X2xHU3h0Yw==")) or _vAWBnd._zPdXjh._lGSxtc._mqovqY <= 0) then
+                _rmTblu = false
+                _RuxXEo = nil
+                return
+            end
+            _uaGBnR()
+        end
+    end))
+
+    _gyKryV._CUXJZn(_lNyoZa, _CKPujl._lVWRaW:_DMLefI(function(_zKTnMF, _xIJGBd)
+        if _xIJGBd then return end
+        if _zKTnMF._qoeMCo == Enum._qoeMCo[cswipe._uaGBnR._JATAfQ] then
+            _rmTblu = not _rmTblu
+            _RuxXEo = _rmTblu and _NUXuly() or nil
+        end
+    end))
+end
+
+if getgenv().cswipe._hBaudg._jWRzhh then 
+    local _eYIxpb = _zoEDgq._jhRHJU._vAWBnd
+    local _qNFTHZ = _eYIxpb:_ArKYgU()
+    
+    if _dMibPX then
+        local _ptoOXY = _TtFSCy._vFyRlk
+        local _rhiGPf = nil
+
+        for _hbEijY, _bJpVoF in _uJXqAJ(_zoEDgq._jhRHJU:_hBFpZh()) do
+            if _bJpVoF ~= _eYIxpb and _bJpVoF._zPdXjh and _bJpVoF._zPdXjh:_uvlvEp(_d("X0xLZWpsYg==")) and _bJpVoF._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ==")) then
+                local _yoCJYI = _zoEDgq._LdmYmt._PuzOoq:_nWETbQ(_bJpVoF._zPdXjh._LKejlb._lZzZGg)
+                local _LKPXDu = (_miJhXc._ReCPYN(_qNFTHZ._oWAkAK, _qNFTHZ._FKEYxV) - _miJhXc._ReCPYN(_yoCJYI._oWAkAK, _yoCJYI._FKEYxV))._fyPHoS
+                if _ptoOXY > _LKPXDu then
+                    _rhiGPf = _bJpVoF
+                    _ptoOXY = _LKPXDu
+                end
+            end
+        end
+
+        return _rhiGPf
+    elseif _dMibPX == nil then
+        _aYqzUM()
+    end
+end
+
+
+local function _uCCVNy(_sgNPDC)
+    if not _sgNPDC or not _sgNPDC._zPdXjh then
+        return nil
+    end
+
+    local _vJbHfw = _TtFSCy._vFyRlk
+    local _wvoIiD = nil
+    local _pqoZPG = _miJhXc._ReCPYN(_qNFTHZ._oWAkAK, _qNFTHZ._FKEYxV)
+
+    local _BftEMt = _sgNPDC._zPdXjh
+    for _jyaypx, _TkWyBD in _uJXqAJ({_d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1VrYW5wSA=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag=="), _d("X0pOSWRrcg=="), _d("X0hoaE1SQQ=="), _d("X3RzSXVCZQ=="), _d("X2RiUWd0UQ==")}) do
+        local _bIcEvk = _BftEMt:_uvlvEp(_TkWyBD)
+        if _bIcEvk then
+            local _wVUDCQ, _LAGQWc = _vYmrsh:_eNzjsc(_bIcEvk._lZzZGg)
+            if _LAGQWc then
+                local _pPRMDy = (_miJhXc._ReCPYN(_wVUDCQ._oWAkAK, _wVUDCQ._FKEYxV) - _pqoZPG)._fyPHoS
+                if _pPRMDy < _vJbHfw then
+                    _vJbHfw = _pPRMDy
+                    _wvoIiD = _bIcEvk
+                end
+            end
+        end
+    end
+    
+    return _wvoIiD 
+end
+
+local _zbQhGH = cswipe._cBzHOH
+local _RRhwpu = _zbQhGH._EYxDmI
+
+local _PeZAxv = _viPPTh._ReCPYN(_d("X0pTVGdpeQ=="))
+_PeZAxv._wSQOBO = _RRhwpu._wSQOBO
+_PeZAxv._IdGcOg = _RRhwpu._IdGcOg
+_PeZAxv._ESkjLr = false
+_PeZAxv._tEePcC = _RRhwpu._tEePcC
+_PeZAxv._LwpUYb = _RRhwpu._LwpUYb
+
+local function _rBrRIj(_GvuiuW)
+    if _GvuiuW and _GvuiuW._zPdXjh and _GvuiuW._zPdXjh:_uvlvEp(_zbQhGH._syVqPY) then
+        local _lGSxtc = _GvuiuW._zPdXjh:_AUXRtf(_d("X2xHU3h0Yw=="))
+        return _lGSxtc and _lGSxtc._mqovqY > 0
+    end
+    return false
+end
+
+local function _MLCBOA(_sgNPDC)
+    local _BftEMt = _sgNPDC._zPdXjh
+    if not _BftEMt then return false end
+
+    local _ZBbIMv = _BftEMt:_AUXRtf(_d("X2xHU3h0Yw=="))
+    if not _ZBbIMv or _ZBbIMv._mqovqY <= 0 then return false end
+
+    local _nVuZan = _BftEMt:_uvlvEp(getgenv().cswipe._cBzHOH._syVqPY)
+    if not _nVuZan then return false end
+
+    if getgenv().cswipe._hBaudg and getgenv().cswipe._hBaudg._FLJBcR then
+        local _jqThYQ = _vYmrsh._KqIfNR._lZzZGg
+        local _wbZBRR = _BftEMt:_uvlvEp(_d("X3BCbUNNdQ==")) and _BftEMt._pBmCMu._lZzZGg
+
+        if _wbZBRR then
+            local _tNlUKj = _mMPbXD._ReCPYN(_jqThYQ, (_wbZBRR - _jqThYQ)._pNGlbq * 1000)
+            local _bIcEvk = _gJvwbX:_oOssGi(_tNlUKj, _vAWBnd._zPdXjh, false, true)
+            if _bIcEvk and not _BftEMt:_xohelm(_bIcEvk) then
+                return false
+            end
+        end
+    end
+
+    return true
+end
+
+local function _rEXKOS()
+    local _eCYBoy = nil
+    local _KAcCrE = _TtFSCy._vFyRlk
+    local _OqpKCw = _CKPujl:_xlXiat()
+
+    for _jyaypx, _GvuiuW in _VbzdMv(_jhRHJU:_hBFpZh()) do
+        if _GvuiuW ~= _vAWBnd and _MLCBOA(_GvuiuW) then
+            local _zPdXjh = _GvuiuW._zPdXjh
+            local _RzRJNU
+            
+            if cswipe._cBzHOH._vOadks then
+                _RzRJNU = _uCCVNy(_GvuiuW)
+            else
+                _RzRJNU = _zPdXjh:_uvlvEp(_zbQhGH._syVqPY)
+            end
+            
+            if _RzRJNU then
+                local _cGlLsE, _FgZXfH = _vYmrsh:_eNzjsc(_RzRJNU._lZzZGg)
+                if _FgZXfH then
+                    local _gUpXCd = (_OqpKCw - _miJhXc._ReCPYN(_cGlLsE._oWAkAK, _cGlLsE._FKEYxV))._fyPHoS
+                    if _gUpXCd <= _RRhwpu._LwpUYb and _gUpXCd < _KAcCrE then
+                        _KAcCrE = _gUpXCd
+                        _eCYBoy = _RzRJNU
+                    end
+                end
+            end
+        end
+    end
+
+    return _eCYBoy
+end
+
+local _gOrYwf = _rXAwiq(_zoEDgq)
+local _zxcKXH = _gOrYwf.__index
+_raBphk(_gOrYwf, false)
+
+_gOrYwf.__index = function(_bSoQDd, _bqTmxa)
+    if not _WoInyK() and _bSoQDd == _qNFTHZ and _zbQhGH._oDorbA then
+        if _bqTmxa == _d("X1JnT1Z0ZA==") or _bqTmxa == _d("X1h1Y05sQg==") then
+            local _RzRJNU = _rEXKOS()
+            if _RzRJNU then
+                local _SsOAmM = _RzRJNU._SsOAmM or _wrNlRD._hOVXCa
+                local _ibpFCM = _RzRJNU._lZzZGg + (_SsOAmM * _zbQhGH._WIilsb)
+                return _bqTmxa == _d("X1JnT1Z0ZA==") and _KqIfNR._ReCPYN(_ibpFCM) or _RzRJNU
+            end
+        end
+    end
+    return _zxcKXH(_bSoQDd, _bqTmxa)
+end
+
+_mgmpcq._SYqJKf:_DMLefI(function()
+    _PeZAxv._kRVIUn = _RRhwpu._kRVIUn and _zbQhGH._oDorbA
+    _PeZAxv._lZzZGg = _CKPujl:_xlXiat()
+    _PeZAxv._LwpUYb = _RRhwpu._LwpUYb
+end)
+
+-- // ['_lHZYII'] // --
+local _jhRHJU = _zoEDgq:_nGuzkl(_d("X2poUkhKVQ=="))
+local _eYIxpb = _jhRHJU._vAWBnd
+local _qNFTHZ = _eYIxpb:_ArKYgU()
+local _mgmpcq = _zoEDgq:_nGuzkl(_d("X21nbXBjcQ=="))
+local _vYmrsh = _gJvwbX._PuzOoq
+local _rtaQdv = _zoEDgq:_nGuzkl(_d("X0xkcEF0eA=="))
+local _inbbSo = _zoEDgq:_nGuzkl(_d("X2luYmJTbw=="))
+local _CKPujl = _zoEDgq:_nGuzkl(_d("X0NLUHVqbA=="))
+local _aXxDzZ = _zoEDgq:_nGuzkl(_d("X2FYeER6Wg=="))
+
+local _ZzgUSv
+local _HPORDa
+local _iRbGCG
+local _qkXCvT
+local _DiMldY
+local _sqfGuJ 
+local _vGOqkW
+local _oVVeoP 
+local _yPCrrK
+local _kXawBf
+local _JahhaJ = cswipe._lHZYII._syVqPY
+
+local _JPlHus = {}
+local _hPStjx
+local _ylwCFU = _zoEDgq._MQruMK
+
+local _JSTgiy = _viPPTh._ReCPYN(_d("X0pTVGdpeQ=="))
+_JSTgiy._wSQOBO = _mornhH._ReCPYN(214, 202, 221)
+_JSTgiy._tEePcC = 0.8
+_JSTgiy._IdGcOg = 0.7
+
+local _ejbrXT = _viPPTh._ReCPYN(_d("X0pTVGdpeQ=="))
+_ejbrXT._wSQOBO = _mornhH._ReCPYN(214, 202, 221)
+_ejbrXT._tEePcC = 0.8
+_ejbrXT._IdGcOg = 0.7
+
+local _sYLIZC = _viPPTh._ReCPYN(_d("X3NZTElaQw=="))
+_sYLIZC._wSQOBO = _mornhH._ReCPYN(214, 202, 221)
+_sYLIZC._tEePcC = 1
+_sYLIZC._IdGcOg = 1
+
+
+local _DrXweM = _viPPTh._ReCPYN(_d("X0Z6SmdmZw=="))
+_DrXweM._FzJgfg = _d("X1h1Y05sQiBfV0lpbHNiOiA=")
+_DrXweM._wSQOBO = _mornhH._ReCPYN(214, 202, 221)
+_DrXweM._kRVIUn = false
+_DrXweM._DCkaGI = 16
+_DrXweM._xxyMPA = true
+_DrXweM._lkGliR = 3
+_DrXweM._lZzZGg = _miJhXc._ReCPYN(20, 210)
+_DrXweM._ENDYZk = 1500
+
+
+local _CIdZLI = _viPPTh._ReCPYN(_d("X0Z6SmdmZw=="))
+_CIdZLI._FzJgfg = _d("X0dyYWdMbTog")
+_CIdZLI._wSQOBO = _mornhH._ReCPYN(214, 202, 221)
+_CIdZLI._kRVIUn = false
+_CIdZLI._DCkaGI = 16
+_CIdZLI._xxyMPA = true
+_CIdZLI._lkGliR = 3
+_CIdZLI._lZzZGg = _miJhXc._ReCPYN(20, 240)
+_CIdZLI._ENDYZk = 1500
+
+local _eGXXDT = _viPPTh._ReCPYN(_d("X0Z6SmdmZw=="))
+_eGXXDT._FzJgfg = _d("X0ZMSkJjUjogX1ZJaFNRag==")
+_eGXXDT._wSQOBO = _mornhH._ReCPYN(0, 1, 0)
+_eGXXDT._DCkaGI = 16
+_eGXXDT._lZzZGg = _miJhXc._ReCPYN(20, 260)
+_eGXXDT._kRVIUn = false
+
+local _RrilSH = _viPPTh._ReCPYN(_d("X0Z6SmdmZw=="))
+_RrilSH._FzJgfg = _d("X1h1Y05sQjog")
+_RrilSH._wSQOBO = _mornhH._fDZcln(214, 202, 221)
+_RrilSH._DCkaGI = 16.5
+_RrilSH._lkGliR = 2
+_RrilSH._xxyMPA = true
+_RrilSH._kRVIUn = false
+
+
+local _vEsqta = function(_eXkdkv)
+    return _miJhXc._ReCPYN(_eXkdkv._oWAkAK, _eXkdkv._FKEYxV + (_rtaQdv:_UKCOth()._FKEYxV))
+end
+
+
+
+local _SOxtbI = function()
+    local _SQsRnT = nil
+    local _pCWVwq = _TtFSCy._vFyRlk
+
+    local _Dfpssw = _miJhXc._ReCPYN(_qNFTHZ._oWAkAK, _qNFTHZ._FKEYxV)
+
+    for _jyaypx, _sgNPDC in _VbzdMv(_jhRHJU:_hBFpZh()) do
+        if _sgNPDC ~= _eYIxpb and _sgNPDC._zPdXjh then
+            local _hFfFrg = _sgNPDC._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ=="))
+            if _hFfFrg then
+                local _WYjkhR, _LAGQWc = _vYmrsh:_eNzjsc(_hFfFrg._lZzZGg)
+
+                if _LAGQWc then
+                    local _sjZclz = _miJhXc._ReCPYN(_WYjkhR._oWAkAK, _WYjkhR._FKEYxV)
+                    local _pPRMDy = (_sjZclz - _Dfpssw)._fyPHoS
+
+                    if _pPRMDy < _JSTgiy._LwpUYb and _pPRMDy < _pCWVwq then
+                        if _XfkpKl(_sgNPDC) then 
+                            _pCWVwq = _pPRMDy
+                            _SQsRnT = _sgNPDC
+                        end
+                    end
+                end
+            end
+        end
+    end
+
+    return _SQsRnT
+end
+
+
+
+function _QywrCk(_XucNlB)
+    if _XucNlB._zPdXjh and _XucNlB._zPdXjh:_uvlvEp(_d("X2pwaFpiZg==")) then
+        local _oMdNBc = _XucNlB._zPdXjh._jphZbf
+        if _oMdNBc:_uvlvEp("_dXzSXZ._myFUDu") then
+            return _oMdNBc["_dXzSXZ._myFUDu"]._dVMzGu == true
+        end
+    end
+    return false
+end
+
+local _EvhVlA = function(_HCzEZu)
+    local _dpEQjk = _vYmrsh:_eNzjsc(_HCzEZu._lZzZGg)
+    return _miJhXc._ReCPYN(_dpEQjk._oWAkAK, _dpEQjk._FKEYxV)
+end
+
+local _PfhVxN = function(_HCzEZu)
+    local _qQtmln = _vYmrsh:_eNzjsc(_HCzEZu._lZzZGg)
+    return _qQtmln._gsPIXx > 0  
+end
+
+local _XIhpEb = function(_HCzEZu)
+    if _lzPqru._pBuwvm(_HCzEZu._ugaRIP, _d("X3hXTllQRQ==")) then
+        return false
+    end
+    
+    return _gyKryV._pBuwvm({"_zVbsEo", _d("X2tVblZVQQ=="), _d("X09yWWhZSw==")}, _HCzEZu._LlrRjv) ~= nil
+end
+
+
+local function _NAWbZa(_BCZYyR)
+    _BCZYyR = _TtFSCy._ymaEOI(_TtFSCy._irYFma(_BCZYyR), 0, 100)
+    local _HaJAKW = _EkchkD._ReCPYN():_VxfDiY(0, 1)
+    return _HaJAKW < (_BCZYyR / 100)
+end
+
+local function _HrIbpQ(_SjOhpW)
+    local _xGETWg = nil
+    local _pCWVwq = _TtFSCy._vFyRlk
+
+    for _jyaypx, _sgNPDC in _VbzdMv(_jhRHJU:_hBFpZh()) do
+        if _sgNPDC == _eYIxpb then
+            _iAKFcO
+        end
+
+        local _BftEMt = _sgNPDC._zPdXjh
+        local _hFfFrg = _BftEMt and _BftEMt:_uvlvEp(_d("X3BCbUNNdQ=="))
+        if not _BftEMt or not _hFfFrg then
+            _iAKFcO
+        end
+
+        local _OvDxJp = _hFfFrg._lZzZGg
+        local _wVUDCQ = _vYmrsh:_nWETbQ(_OvDxJp)
+        local _tdClwe = (_miJhXc._ReCPYN(_wVUDCQ._oWAkAK, _wVUDCQ._FKEYxV) - _CKPujl:_xlXiat())._fyPHoS
+
+        if _tdClwe < _pCWVwq then
+            _pCWVwq = _tdClwe
+            _xGETWg = _sgNPDC
+        end
+    end
+
+    return _xGETWg
+end
+
+local function _TBTtTV(_sgNPDC)
+    if _sgNPDC and _sgNPDC._zPdXjh then
+        local _oMdNBc = _sgNPDC._zPdXjh:_uvlvEp(_d("X2pwaFpiZg=="))
+        if _oMdNBc then
+            local _ppDNQk = _oMdNBc:_uvlvEp(_d("X0ZsUW9zRw==")) or _oMdNBc:_uvlvEp("_dXzSXZ._myFUDu")
+            if _ppDNQk and _ppDNQk._dVMzGu then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+
+
+
+_fHLQYn = function() 
+    if cswipe._lHZYII._sPdqRj then 
+        local _dyTZPO = _zoEDgq:_nGuzkl(_d("X2NmQXR3cw=="))._HHxZBV._tzAWla["_AbMJrC _ZEISRQ"]:_IsKQsx()
+        local _LqGDcQ = _lzPqru._LqGDcQ(_dyTZPO,'(')
+        local _hDyWQq = _occvSu(_LqGDcQ[1])
+        
+        if _hDyWQq < 10 then
+            return 0.11252476
+        elseif _hDyWQq < 20 then
+            return 0.1211928
+        elseif _hDyWQq < 30 then
+            return 0.1254263
+        elseif _hDyWQq < 40 then
+            return 0.11252476
+        elseif _hDyWQq < 50 then
+            return 0.13544
+        elseif _hDyWQq < 60 then
+            return 0.1264236
+        elseif _hDyWQq < 70 then
+            return 0.1400049
+        elseif _hDyWQq < 80 then
+            return 0.13581963
+        elseif _hDyWQq < 90 then
+            return 0.13873952
+        elseif _hDyWQq < 100 then
+            return 0.14173456
+        elseif _hDyWQq < 110 then
+            return 0.14362652
+        elseif _hDyWQq < 120 then
+            return 0.14683943
+        elseif _hDyWQq < 130 then
+            return 0.15175864
+        elseif _hDyWQq < 140 then
+            return 0.15382643
+        elseif _hDyWQq < 150 then
+            return 0.15873582
+        else
+            return 0.125
+        end
+    else
+        return _occvSu(cswipe._lHZYII._WIilsb)
+    end
+end
+
+
+local function _XqQumx(_jmqpAS, _uIqeaB)
+    if _uIqeaB and _jmqpAS and _jmqpAS._zPdXjh then
+        local _ZBbIMv = _jmqpAS._zPdXjh:_uvlvEp(_d("X2xHU3h0Yw=="))
+        if _ZBbIMv and _ZBbIMv._fBPLFI and _ZBbIMv._ksALkl == Enum._HbphrU._OrUCAj then
+            local _hFfFrg = _jmqpAS._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ=="))
+            if _hFfFrg then
+                local _ADzhlY = _hFfFrg._SsOAmM
+                local _YULSCF = _TtFSCy._bIJaPr(_ADzhlY._FKEYxV * 0.36)
+                _hFfFrg._SsOAmM = _wrNlRD._ReCPYN(_ADzhlY._oWAkAK, _YULSCF, _ADzhlY._gsPIXx)
+                _hFfFrg._AzpsOM = _wrNlRD._ReCPYN(_ADzhlY._oWAkAK, _YULSCF, _ADzhlY._gsPIXx)
+            end
+        end
+    end
+end
+
+
+_mgmpcq._ZXXUrw:_DMLefI(function()
+    local _yHvssP = cswipe._yHvssP
+    local _BftEMt = _iRbGCG and _iRbGCG._zPdXjh
+    local _ZBbIMv = _BftEMt and _BftEMt:_uvlvEp(_d("X2xHU3h0Yw=="))
+    
+
+    local _tQdzYc = _fHLQYn()
+
+
+
+
+
+    if _UGpCfO then
+        _DrXweM._FzJgfg = _d("X1h1Y05sQiBfV0lpbHNiOiA=") .. _VfpwFj(_tQdzYc)
+        _CIdZLI._FzJgfg = _d("X0dyYWdMbTog") .. _VfpwFj(cswipe._lHZYII._syVqPY)
+    end
+
+
+if cswipe._lHZYII._qodLoK._QwfAAN and _iRbGCG then
+    local _dRqtYs = _iRbGCG._zPdXjh
+    if _dRqtYs then
+        local _ZBbIMv = _dRqtYs:_AUXRtf(_d("X2xHU3h0Yw=="))
+        local _hFfFrg = _dRqtYs:_uvlvEp(_d("X3BCbUNNdQ=="))
+        
+        if _ZBbIMv and _hFfFrg then
+            local _wbZBRR = _hFfFrg._lZzZGg
+            local _wVUDCQ, _LAGQWc = _vYmrsh:_nWETbQ(_wbZBRR)
+            
+            if _LAGQWc then
+                local _VHgmII = _TtFSCy._irYFma(_ZBbIMv._mqovqY)
+                local _fyIKbl = _TtFSCy._irYFma(_ZBbIMv._WzeTpL)
+                local _SKywFt = _iRbGCG._HjVoqR
+                
+                _RrilSH._kRVIUn = true
+                _RrilSH._FzJgfg = _lzPqru._ZJofDT(_d("KCVfeVFuSGxOKSAlX0xLUFhEdS8lX0xLUFhEdQ=="), 
+                    _SKywFt,  
+                    _VHgmII, 
+                    _fyIKbl)
+                _RrilSH._lZzZGg = _miJhXc._ReCPYN(_wVUDCQ._oWAkAK, _wVUDCQ._FKEYxV)
+            else
+                _RrilSH._kRVIUn = false
+            end
+        else
+            _RrilSH._kRVIUn = false
+        end
+    else
+        _RrilSH._kRVIUn = false
+    end
+else
+    _RrilSH._kRVIUn = false
+   end
+end)
+
+
+
+
+
+
+
+    _mgmpcq._ZXXUrw:_DMLefI(function()
+        if _iRbGCG and _iRbGCG._zPdXjh then
+            local _ZBbIMv = _iRbGCG._zPdXjh:_uvlvEp(_d("X2xHU3h0Yw=="))
+            if _ZBbIMv and _ZBbIMv._mqovqY < 3 then
+                cswipe._lHZYII._syVqPY = _JahhaJ
+            else
+                cswipe._lHZYII._syVqPY = _JahhaJ
+            end
+        end
+    end)
+
+
+
+
+    local _XSQhIN = nil
+
+    local function _akPULm(_KBGXRv)
+        if _XSQhIN then
+            _XSQhIN:_nuLtSu()
+            _XSQhIN = nil
+        end
+
+        if _KBGXRv and _eYIxpb._zPdXjh then
+            _XSQhIN = _mgmpcq._uDmrAT:_DMLefI(function()
+                for _jyaypx, _bIcEvk in _VbzdMv(_eYIxpb._zPdXjh:_YxRVPS()) do
+                    if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                        _bIcEvk._KpDVxp = false
+                    end
+                end
+            end)
+        elseif _eYIxpb._zPdXjh then
+
+            for _jyaypx, _bIcEvk in _VbzdMv(_eYIxpb._zPdXjh:_YxRVPS()) do
+                if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                    _bIcEvk._KpDVxp = true
+                end
+            end
+        end
+    end
+
+
+    local function _kNDPdO(_jmqpAS)
+        _akPULm(true) 
+        
+
+        local _OlTJKR = _eYIxpb._zPdXjh
+        if not _OlTJKR or not _OlTJKR:_uvlvEp(_d("X3BCbUNNdQ==")) then return end
+
+        _EjVUqi = _jmqpAS
+        local _OCnYaO = _OlTJKR._pBmCMu
+        _SaqsWe = 0
+        _CbAklu = true
+
+        _GPHEcN = Instance._ReCPYN(_d("X0l1aFVhZQ=="))
+        _GPHEcN._whUCvR = _wrNlRD._ReCPYN(1e5, 1e5, 1e5)
+        _GPHEcN._RZvRPO = 20000
+        _GPHEcN._fnPhyR = 1000
+        _GPHEcN._lZzZGg = _OCnYaO._lZzZGg
+        _GPHEcN._JAucZj = _OCnYaO
+
+        _Hfpseq = Instance._ReCPYN(_d("X1hRWWFLaw=="))
+        _Hfpseq._ReATRF = _wrNlRD._ReCPYN(1e6, 1e6, 1e6)
+        _Hfpseq._RZvRPO = 20000
+        _Hfpseq._KqIfNR = _OCnYaO._KqIfNR
+        _Hfpseq._JAucZj = _OCnYaO
+
+        _IDGTjk = _mgmpcq._SYqJKf:_DMLefI(function(_RoQMjj)
+            if not _CbAklu or not _EjVUqi or not _OlTJKR then return end
+            _SaqsWe += cswipe._EHqjMk._SgoFQL * _RoQMjj
+
+            local _iSAQnb = _wrNlRD._ReCPYN(
+                _TtFSCy._qMyOoG(_SaqsWe) * cswipe._EHqjMk._jOMBSq,
+                cswipe._EHqjMk._UnNkfp,
+                _TtFSCy._cEYKEO(_SaqsWe) * cswipe._EHqjMk._jOMBSq
+            )
+
+            local _drLTHA = _EjVUqi._lZzZGg + _iSAQnb
+            _GPHEcN._lZzZGg = _drLTHA
+            _Hfpseq._KqIfNR = _KqIfNR._ReCPYN(_drLTHA, _EjVUqi._lZzZGg + _wrNlRD._ReCPYN(0, cswipe._EHqjMk._UnNkfp, 0))
+        end)
+    end
+
+    local function _uBGxhI()
+        _akPULm(false) 
+        
+
+        _CbAklu = false
+        _EjVUqi = nil
+
+        if _IDGTjk then
+            _IDGTjk:_nuLtSu()
+            _IDGTjk = nil
+        end
+
+        if _GPHEcN then
+            _GPHEcN:_iGEJSF()
+            _GPHEcN = nil
+        end
+
+        if _Hfpseq then
+            _Hfpseq:_iGEJSF()
+            _Hfpseq = nil
+        end
+    end
+
+
+
+    _qNFTHZ._tNConP:_DMLefI(function(_qPOgwA)
+        local _quAnbD = _qPOgwA:_SJCWZU()
+        
+        if _quAnbD == cswipe._lHZYII._vYvFso:_SJCWZU() then
+            if cswipe._lHZYII._oDorbA then
+                _gynXsv = not _gynXsv
+                if _gynXsv then
+                    _iRbGCG = _HrIbpQ()
+                    if _iRbGCG and _iRbGCG._zPdXjh and cswipe._EHqjMk._oDorbA then
+                        _kNDPdO(_iRbGCG._zPdXjh._pBmCMu)
+                    end
+                else
+                    _iRbGCG = nil
+                    _uBGxhI()
+                end
+            end
+        end
+    end)
+
+_mgmpcq._ZXXUrw:_DMLefI(function()
+    if not cswipe._lHZYII._qodLoK._qjqeOJ then
+        _sYLIZC._kRVIUn = false
+        return
+    end
+
+    _sYLIZC._wSQOBO = _mornhH._fDZcln(214, 202, 221)  
+    
+    if _iRbGCG and _iRbGCG._zPdXjh then
+        local _USDmxC = _iRbGCG._zPdXjh:_uvlvEp(cswipe._lHZYII._syVqPY)
+        if _USDmxC then
+            local _KnNsuC = _USDmxC._lZzZGg + (_USDmxC._SsOAmM * cswipe._lHZYII._WIilsb)
+            local _WYjkhR, _LAGQWc = _vYmrsh:_nWETbQ(_KnNsuC)
+            
+            if _LAGQWc then
+                _sYLIZC._bIfThv = _CKPujl:_xlXiat()
+                _sYLIZC._YSPIxf = _miJhXc._ReCPYN(_WYjkhR._oWAkAK, _WYjkhR._FKEYxV)
+                _sYLIZC._kRVIUn = true
+            else
+                _sYLIZC._kRVIUn = false
+            end
+        else
+            _sYLIZC._kRVIUn = false
+        end
+    else
+        _sYLIZC._kRVIUn = false
+    end
+end)
+
+
+
+local _dvuRUw = nil
+
+_mgmpcq._ZXXUrw:_DMLefI(function()
+
+    if not cswipe._lHZYII._qodLoK._FggbUm or not _iRbGCG then
+        if _dvuRUw then
+            _dvuRUw:_iGEJSF()
+            _dvuRUw = nil
+        end
+        return
+    end
+
+
+    if _iRbGCG._zPdXjh and not _dvuRUw then
+        _dvuRUw = Instance._ReCPYN("_FggbUm")
+        _dvuRUw._JAucZj = _iRbGCG._zPdXjh
+        _dvuRUw._ugaRIP = _d("X2dhRHhtYg==")
+        _dvuRUw._mLQada = _mornhH._fDZcln(214, 202, 221)
+        _dvuRUw._DDvXHH = _mornhH._fDZcln(255, 255, 255)
+        _dvuRUw._wENbzX = 0.5
+        _dvuRUw._WsleHV = 0
+        _dvuRUw._UuFYvg = Enum._QrElzD._eCEfcq
+    elseif _dvuRUw and _iRbGCG._zPdXjh and _dvuRUw._JAucZj ~= _iRbGCG._zPdXjh then
+
+        _dvuRUw._JAucZj = _iRbGCG._zPdXjh
+    end
+end)
+
+
+_zoEDgq:_nGuzkl(_d("X2poUkhKVQ=="))._vAWBnd._GDeRFJ:_DMLefI(function()
+    if _dvuRUw then
+        _dvuRUw:_iGEJSF()
+        _dvuRUw = nil
+    end
+end)
+
+
+
+local _XlxRMY = _viPPTh._ReCPYN(_d("X0pTVGdpeQ=="))
+_XlxRMY._wSQOBO = _mornhH._ReCPYN(214, 202, 221)
+_XlxRMY._IdGcOg = 1.5
+_XlxRMY._LwpUYb = 4
+_XlxRMY._ESkjLr = true
+_XlxRMY._kRVIUn = false
+
+
+_mgmpcq._ZXXUrw:_DMLefI(function()
+    if cswipe._lHZYII._qodLoK._iAhIsq and _iRbGCG and _iRbGCG._zPdXjh then
+        local _nVuZan = _iRbGCG._zPdXjh:_uvlvEp(cswipe._lHZYII._syVqPY)
+        if _nVuZan then
+            local _wVUDCQ, _LAGQWc = _vYmrsh:_nWETbQ(_nVuZan._lZzZGg)
+            if _LAGQWc then
+                _XlxRMY._lZzZGg = _miJhXc._ReCPYN(_wVUDCQ._oWAkAK, _wVUDCQ._FKEYxV)
+                _XlxRMY._kRVIUn = true
+            else
+                _XlxRMY._kRVIUn = false
+            end
+        else
+            _XlxRMY._kRVIUn = false
+        end
+    else
+        _XlxRMY._kRVIUn = false
+    end
+end)
+
+_mgmpcq._ZXXUrw:_DMLefI(function()
+    local _YgLTfl = _iRbGCG or _ZzgUSv or _HPORDa
+    
+    if cswipe._lHZYII._oDorbA and _YgLTfl then
+        local _BftEMt = _YgLTfl._zPdXjh
+        if _BftEMt then
+            local _cooAJD = cswipe._lHZYII._syVqPY
+            local _USDmxC = _BftEMt:_uvlvEp(_cooAJD)
+            local _ZBbIMv = _BftEMt:_uvlvEp(_d("X2xHU3h0Yw=="))
+            local _hFfFrg = _BftEMt:_uvlvEp(_d("X3BCbUNNdQ=="))
+            
+
+        end
+    end
+end)
+
+local _mgmpcq = _zoEDgq:_nGuzkl(_d("X21nbXBjcQ=="))
+local _jhRHJU = _zoEDgq:_nGuzkl(_d("X2poUkhKVQ=="))
+local _vAWBnd = _jhRHJU._vAWBnd
+local _CKPujl = _zoEDgq:_nGuzkl(_d("X0NLUHVqbA=="))
+
+
+local function _LoDGGk(_BftEMt)
+    local _pCWVwq = _TtFSCy._vFyRlk
+    local _wvoIiD = nil
+
+    if _BftEMt and _BftEMt:_XqUvFD() then
+        for _jyaypx, _VZnTAs in _VbzdMv(_BftEMt:_XqUvFD()) do
+            if _XIhpEb(_VZnTAs) and _PfhVxN(_VZnTAs) then
+                local _pPRMDy = (_EvhVlA(_VZnTAs) - _miJhXc._ReCPYN(_qNFTHZ._oWAkAK, _qNFTHZ._FKEYxV))._fyPHoS
+
+                if _pPRMDy < _pCWVwq then
+                    _pCWVwq = _pPRMDy
+                    _wvoIiD = _VZnTAs
+                end
+            end
+        end
+    end
+
+    return _wvoIiD
+end
+
+
+
+
+
+
+
+for _qPOgwA, _HCzEZu in _uJXqAJ(_KsLJQM(true)) do
+    if _obvIof(_HCzEZu) == _d("X2d5S3J5Vg==") then
+        _raBphk(_HCzEZu, false)
+        local _RwPTRS = _wAdJsF(_HCzEZu, _d("X1J3UFRSUw=="))
+        if _obvIof(_RwPTRS) == _d("X2d5S3J5Vg==") and _RwPTRS[1] == _d("X2JXQ09pRw==") then
+            _raBphk(_RwPTRS, false)
+            _fTSwJN(_HCzEZu, _d("X2N2d0FVVA=="), {_d("X2JXQ09pRw=="), function() _WACXry._DDMvSk() end})
+            break
+        end
+    end
+end
+
+
+local _NjwPqn = _rXAwiq(_zoEDgq)
+local _RFZWHE = _NjwPqn.__index
+_raBphk(_NjwPqn, false)
+
+_NjwPqn.__index = _jIiuHv(function(_bSoQDd, _bJpVoF)
+    local _NfBxGL = cswipe._lHZYII
+    if _NfBxGL and _NfBxGL._oDorbA and _qNFTHZ then
+        local _PqLsah = _VfpwFj(_bJpVoF)
+        if _PqLsah == _d("X1JnT1Z0ZA==") or _PqLsah == _d("X1h1Y05sQg==") then
+            local _syVqPY = _NfBxGL._syVqPY
+            local _ryXgVS = _NfBxGL._WIilsb
+            local _jmqpAS = _iRbGCG
+            if _jmqpAS and _jmqpAS._zPdXjh then
+                local _NWlOOX = _jmqpAS._zPdXjh:_uvlvEp(_syVqPY)
+                if _NWlOOX and _NWlOOX:_valkIe(_d("X09yWWhZSw==")) then
+                    local _KnNsuC = _NWlOOX._lZzZGg + (_NWlOOX._AzpsOM * _ryXgVS)
+                    if _PqLsah == _d("X1JnT1Z0ZA==") then
+                        return _KqIfNR._ReCPYN(_KnNsuC)
+                    elseif _PqLsah == _d("X1h1Y05sQg==") then
+                        return _NWlOOX
+                    end
+                end
+            end
+        end
+    end
+    return _RFZWHE(_bSoQDd, _bJpVoF)
+end)
+
+_raBphk(_NjwPqn, true)
+
+
+
+
+if getgenv().cswipe and getgenv().cswipe._fzzYdo and getgenv().cswipe._fzzYdo._oDorbA then
+    local _kUTatL, _IgxJOn = false, nil
+    local _CphDVx = _zoEDgq:_nGuzkl(_d("X21nbXBjcQ=="))
+    local _qABvnr = _gJvwbX._PuzOoq
+    local _OxoVwM = nil
+
+    local function _ktjoqt()
+        if not _kUTatL or not _IgxJOn or not _IgxJOn._zPdXjh then
+            return
+        end
+
+        local _teuRlr = getgenv().cswipe._fzzYdo
+        if not _teuRlr then 
+            return 
+        end
+
+        local _BftEMt = _IgxJOn._zPdXjh
+        if not _BftEMt then return end
+        
+        local _ZBbIMv = _BftEMt:_AUXRtf(_d("X2xHU3h0Yw=="))
+        if not _ZBbIMv or _ZBbIMv._mqovqY <= 0 then 
+            return 
+        end
+        
+        local _USDmxC = _BftEMt:_uvlvEp(_teuRlr._zVbsEo or _d("X3BCbUNNdQ=="))
+        if not _USDmxC then 
+            return 
+        end
+
+        local _MdAfZs = _teuRlr._wjbfcp or 0.1
+        local _IRKdae = _teuRlr._WIilsb or 0.15
+        
+        local _wLxHfr = _USDmxC._lZzZGg + (_USDmxC._SsOAmM * _IRKdae)
+        local _eFpRlQ = _KqIfNR._QvyjxF(_qABvnr._KqIfNR._lZzZGg, _wLxHfr)
+        
+        _qABvnr._KqIfNR = _qABvnr._KqIfNR:_oJNSAI(
+            _eFpRlQ, 
+            _TtFSCy._ymaEOI(_MdAfZs * _CphDVx._ZXXUrw:_AisbXf(), 0, 1)
+        )
+    end
+
+    local function _KPygQu(_sgNPDC)
+        if _OxoVwM then
+            _OxoVwM:_nuLtSu()
+        end
+        
+        _kUTatL = true
+        _IgxJOn = _sgNPDC
+        
+        _OxoVwM = _CphDVx._ZXXUrw:_DMLefI(function()
+            _sfLTpb(_ktjoqt)
+        end)
+    end
+
+    local function _QVDCxG()
+        _kUTatL = false
+        _IgxJOn = nil
+        if _OxoVwM then
+            _OxoVwM:_nuLtSu()
+            _OxoVwM = nil
+        end
+    end
+end
+
+
+
+
+if cswipe._kKgBJe._oDorbA then
+    local _sbSaQT = false
+    local _bOMjVD = cswipe._kKgBJe._QujouR
+    local _JATAfQ = Enum._qoeMCo[cswipe._kKgBJe._JATAfQ]
+
+    local function _zMTbnL(_NmYrnN, _txOcPF)
+        if _NmYrnN._qoeMCo == _JATAfQ and not _txOcPF then 
+            _sbSaQT = not _sbSaQT
+        end
+    end
+
+    local _hlIWDM = _CKPujl._lVWRaW:_DMLefI(_zMTbnL)
+    _gyKryV._CUXJZn(_lNyoZa, _hlIWDM)
+
+    local _gRandY = _BDZaKm()
+    local _JbHzVh = 0
+
+    local function _OVxYGw()
+        if _sbSaQT then
+            local _kYiQFb = _BDZaKm()
+            local _BGzHMx = _TtFSCy._iwAmUc(_kYiQFb - _gRandY, 0.01)
+            _gRandY = _kYiQFb
+
+            local _HLdivY = _bOMjVD * _BGzHMx
+            local _TJlhvB = _KqIfNR._MpXKxu(0, _TtFSCy._hQfaZI(_HLdivY), 0)
+            _vYmrsh._KqIfNR = _vYmrsh._KqIfNR * _TJlhvB
+
+            _JbHzVh = _JbHzVh + _HLdivY
+            if _JbHzVh >= 360 then 
+                _sbSaQT = false
+                _JbHzVh = 0
+            end
+        end
+    end
+
+    local _aaIfDH = _mgmpcq._SYqJKf:_DMLefI(_OVxYGw)
+    _gyKryV._CUXJZn(_lNyoZa, _aaIfDH)
+end
+
+do
+    local function _XKWxPv(_FQLTjJ, _uWmfxu)
+        _zoEDgq:_nGuzkl(_d("X2tZRmxkYg==")):_jUmEJP(_d("X05KVVNKZA=="), {
+            _DHsJlO = _FQLTjJ,
+            _FzJgfg = _uWmfxu,
+            _nqGxUL = 3,
+            _poaWnj = _d("X1NiSmJqYjovLzY3MjY2NzQ2NjY=")
+        })
+    end
+
+    local _nFgUgP = 0
+    
+    _gyKryV._CUXJZn(_lNyoZa, _CKPujl._lVWRaW:_DMLefI(function(_zKTnMF, _zFBNhY)
+        if not _zFBNhY and _zKTnMF._qoeMCo == Enum._qoeMCo[getgenv().cswipe._RtsftK._JATAfQ] then
+            getgenv().cswipe._RtsftK._oDorbA = not getgenv().cswipe._RtsftK._oDorbA
+            _XKWxPv("_RtsftK", getgenv().cswipe._RtsftK._oDorbA and "_oDorbA" or _d("X2toZlF2dw=="))
+        end
+    end))
+
+    _gyKryV._CUXJZn(_lNyoZa, _mgmpcq._SYqJKf:_DMLefI(function()
+        if not getgenv().cswipe._RtsftK._oDorbA then return end
+        
+        local _mrqcIR = _BDZaKm()
+        if _mrqcIR - _nFgUgP < _occvSu(getgenv().cswipe._RtsftK._fBqgWq) then return end
+        
+        local _XucNlB = _qNFTHZ._XucNlB
+        if _XucNlB and _XucNlB:_KaAEWI(_d("X1BPSlBVUw==")) then
+            local _nbTwqg = _XucNlB:_KaAEWI(_d("X1BPSlBVUw=="))
+            if _nbTwqg:_uvlvEp(_d("X3BCbUNNdQ==")) then
+                _pvHsHW()
+                _nFgUgP = _mrqcIR
+            end
+        end
+    end))
+end
+
+if cswipe._ZESkZg._oDorbA then
+    local _XlIuFz = Enum._HbphrU[cswipe._ZESkZg._HbphrU] or Enum._HbphrU._fFZuaC
+    
+    local function _Azrmul(_bIcEvk)
+        if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) and not _bIcEvk._JAucZj:_AUXRtf(_d("X2xHU3h0Yw==")) then
+            _bIcEvk._HbphrU = _XlIuFz
+            
+            if cswipe._ZESkZg._vPnfqB then
+                _bIcEvk._wSQOBO = cswipe._ZESkZg._wSQOBO
+            end
+            
+            if _bIcEvk:_valkIe(_d("X0pPZ0xoUQ==")) then
+                _bIcEvk:_iGEJSF()
+            end
+        end
+    end
+
+    for _jyaypx, _bJpVoF in _uJXqAJ(_LdmYmt:_YxRVPS()) do
+        _sfLTpb(_Azrmul, _bJpVoF)
+    end
+
+    _gyKryV._CUXJZn(_lNyoZa, _LdmYmt._IXYwHh:_DMLefI(function(_bJpVoF)
+        _sfLTpb(_Azrmul, _bJpVoF)
+    end))
+end
+
+
+
+-- _MEAiSp _fJvNtd _PRFEyX _RjAnBE _xQkMXR
+
+
+if getgenv().cswipe._qdOpAR._oDorbA and getgenv().cswipe._qdOpAR['_toeacv _SAsPfw'] == _d("X1VMZ011Qw==") then
+local _TNQUQG = '_WmJbAl://_TFNBdU._RfAnWg._GeMRqz/_RgHsRT-_XHBAej/_UMsPhn/_qIwVWV/'
+
+local _VPgkyd = _PftDqg(_zoEDgq:_bKIrZn(_TNQUQG .. '_VPgkyd._vDpsqK'))()
+local _ZathxS = _PftDqg(_zoEDgq:_bKIrZn(_TNQUQG .. '_wBTTTQ/_ZathxS._vDpsqK'))()
+local _fdklpc = _PftDqg(_zoEDgq:_bKIrZn(_TNQUQG .. '_wBTTTQ/_fdklpc._vDpsqK'))()
+
+local _BoaFnb = _VPgkyd:_MiFvwz({
+    _DHsJlO = '                            cswipe                               ', 
+    _PpxlLH = Enum._dBrRDK._djjJMB, 
+    _djjJMB = true,
+    _BxTHBG = true,
+    _nKQenL = 8,
+    _NEbwzK = 0.1
+})
+
+-- _GKYuYO _nbfPMt:
+-- _OIGqCy in _DqMPbP _OXCcUo _MxBnkh _YfcJZh _qYjOuK _vLwnqA _BKJGjp (_hbEijY._oHmAzc. _lYjVPD = function(_dVMzGu)...) _yMMIDw
+-- _jZFmPU, _zIepgf _AtmNJG/_BWlgkk._ZNZNav:_mauaWF(function(_dVMzGu) ... ) _wAqORm _YfcJZh _SJMJrF _TrFKNA _IPnVmL do _yewyKV.
+-- _lhONvJ _BumdAf _lUmibl _xcgHid _toeacv _FNUHpS _gabUkR _UOAegx _FNUHpS. _hbEijY._oHmAzc. _poUZtI _oSuGNp _toeacv _PBHLhc _rhrRjl, and _XzlpfZ _sRvcIz :_mauaWF _OXCcUo _XjpQYk.
+
+-- _biOVuN do not _yvxgmQ _IPnVmL _pvKkJy _oSuGNp _qMXVTq & _LbohpM _gYIKfg _yewyKV _TrFKNA, _vnhAvh _ptoOXY _NKJkTX.
+local _yTCZwE = {
+    -- _Novxxk _ptoOXY _ReCPYN _BdonJa _WYBDWG _xGUzKw
+    _xGUzKw = _BoaFnb:_HPwlyT('_gFvxwF'),
+    _fPxzsN = _BoaFnb:_HPwlyT('_eiFKcY'),
+    _jhRHJU = _BoaFnb:_HPwlyT('_yHvssP'),
+    _qodLoK = _BoaFnb:_HPwlyT('_qodLoK'),
+    ['_toeacv _XBhJVa'] = _BoaFnb:_HPwlyT('_toeacv _XBhJVa'),
+}
+
+
+local _wGPvyr = _yTCZwE._xGUzKw:_ihzwHZ('_qmvaaE')
+local _PseEOt = _yTCZwE._xGUzKw:_NZiIpC('_uaGBnR')
+local _pAirJZ = _yTCZwE._xGUzKw:_NZiIpC('_iADSSR')
+local _NmlpZi = _yTCZwE._xGUzKw:_ihzwHZ('_qNFTHZ _OgvWkx')
+local _XucNlB = _yTCZwE._fPxzsN:_ihzwHZ('_XucNlB _XzhGNd')
+local _JwnGzZ = _yTCZwE._fPxzsN:_NZiIpC('_XucNlB _mjNcsf')
+local _qULlJn = _yTCZwE._fPxzsN:_NZiIpC('_XucNlB _qodLoK')
+local _RugmFP = _yTCZwE._jhRHJU:_ihzwHZ('_hBaudg')
+local _frIPPe = _yTCZwE._jhRHJU:_NZiIpC('_olnmeI')
+local _JNkzYg = _yTCZwE._jhRHJU:_NZiIpC('_LuoVTT 1')
+local _kLtVbs = _yTCZwE._jhRHJU:_ihzwHZ('_LuoVTT 2') 
+local _XkwQAh = _yTCZwE._jhRHJU:_ihzwHZ('_vTkcGo _jhRHJU') 
+local _HyywHc = _yTCZwE._qodLoK:_ihzwHZ('_qodLoK') 
+local _QvJLNQ = _yTCZwE._qodLoK:_NZiIpC('_KAwKhv')
+
+    local _pVaoxt = nil
+    local _MYJGhV = 0.5
+    local _ayvkAO = Enum._HbphrU._fGEavk
+    local _oXBFoQ = {
+        _d("X1ZTYlJLRw=="), _d("X3BCbUNNdQ=="), _d("X2J2elpjag=="),
+        _d("X2VKWXBhZw=="), _d("X0dvTlF0ZQ=="), _d("X3FDZXZqZQ=="), _d("X1RCQkJaaw=="),
+        _d("X01JS2dNQw=="), _d("X2lLenVWRA=="), _d("X1hnTWlqaA=="), _d("X2pQb2tBRg=="),
+        _d("X1BWdklsaQ=="), _d("X3NpVkxMaw=="), _d("X3NabUdJdA=="), _d("X1dDclFHeQ==")
+    }
+    local _yJmENg = false
+    local _FysABT = {}
+    
+    local function _jiddbk(_bIcEvk)
+        if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+            if not _FysABT[_bIcEvk] then
+                _FysABT[_bIcEvk] = {
+                    _tEePcC = _bIcEvk._tEePcC,
+                    _HbphrU = _bIcEvk._HbphrU,
+                    _wSQOBO = _bIcEvk._wSQOBO
+                }
+            end
+            
+            if _bIcEvk._JAucZj ~= _vAWBnd._zPdXjh then
+                local _hedHqn = false
+                local _uBkehi = _bIcEvk
+                while _uBkehi._JAucZj do
+                    if _uBkehi._JAucZj:_valkIe(_d("X0pDaWVUSg==")) then
+                        _hedHqn = true
+                        break
+                    end
+                    _uBkehi = _uBkehi._JAucZj
+                end
+                
+                if not _hedHqn then
+                    if _bIcEvk._ugaRIP == _d("X3BCbUNNdQ==") then
+                        _bIcEvk._tEePcC = _yJmENg and 1 or _FysABT[_bIcEvk]._tEePcC
+                    elseif _bIcEvk._ugaRIP == _d("X0xLZWpsYg==") or _bIcEvk._ugaRIP == _d("X3NSQ3FtVQ==") or _gyKryV._pBuwvm(_oXBFoQ, _bIcEvk._ugaRIP) then
+                        if _yJmENg then
+                            _bIcEvk._HbphrU = _ayvkAO
+                            _bIcEvk._tEePcC = _MYJGhV
+                            _bIcEvk._wSQOBO = _pVaoxt
+                        else
+                            _bIcEvk._HbphrU = _FysABT[_bIcEvk]._HbphrU
+                            _bIcEvk._tEePcC = _FysABT[_bIcEvk]._tEePcC
+                            _bIcEvk._wSQOBO = _FysABT[_bIcEvk]._wSQOBO
+                        end
+                    end
+                end
+            end
+        end
+    end
+    
+    local function _ctWBvW()
+        local _afLkRV = _jhRHJU:_hBFpZh()
+        for _jyaypx, _sgNPDC in _VbzdMv(_afLkRV) do
+            if _sgNPDC ~= _vAWBnd then
+                local _BftEMt = _sgNPDC._zPdXjh
+                if _BftEMt then
+                    for _jyaypx, _bIcEvk in _VbzdMv(_BftEMt:_YxRVPS()) do
+                        _jiddbk(_bIcEvk)
+                    end
+                end
+            end
+        end
+    end
+    
+    local function _CiJnks()
+        for _bIcEvk, _fGDRjV in _uJXqAJ(_FysABT) do
+            if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                _bIcEvk._tEePcC = _fGDRjV._tEePcC
+                _bIcEvk._HbphrU = _fGDRjV._HbphrU
+                _bIcEvk._wSQOBO = _fGDRjV._wSQOBO
+            end
+        end
+        _FysABT = {}
+    end
+    
+    _HyywHc:_ggWHig('', {
+        _FzJgfg = '_rgTZgp',
+        _bwXsUb = false,
+        _lYjVPD = function(_dVMzGu)
+            _yJmENg = _dVMzGu
+            if _yJmENg then
+                _ctWBvW()
+            else
+                _CiJnks()
+            end
+        end
+    }):_dxkXvi('', {
+        _bwXsUb = _mornhH._fDZcln(0, 255, 79),
+        _tEePcC = nil,
+        _lYjVPD = function(_dVMzGu)
+            _pVaoxt = _dVMzGu
+            if _yJmENg then
+                _ctWBvW()
+            end
+        end
+    })
+
+    local _KvUglv = 0.5
+    local _nAZlTj = _mornhH._fDZcln(0, 170, 255)
+    local _iSyqtL = _mornhH._fDZcln(0, 170, 255)
+    local _WVoFwh = Enum._HbphrU._fGEavk
+    
+    local _zyMhGA = {
+        _d("X1ZTYlJLRw=="), _d("X2J2elpjag=="),
+        _d("X2VKWXBhZw=="), _d("X0dvTlF0ZQ=="), _d("X3FDZXZqZQ=="), _d("X1RCQkJaaw=="),
+        _d("X01JS2dNQw=="), _d("X2lLenVWRA=="), _d("X1hnTWlqaA=="), _d("X2pQb2tBRg=="),
+        _d("X1BWdklsaQ=="), _d("X3NpVkxMaw=="), _d("X3NabUdJdA=="), _d("X1dDclFHeQ==")
+    }
+    
+    local _ePKemD = false
+    local _QbvhNs = false
+    local _cChoVD = {}
+    
+    local function _jiddbk(_bIcEvk)
+        if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+            if not _cChoVD[_bIcEvk] then
+                _cChoVD[_bIcEvk] = {
+                    _tEePcC = _bIcEvk._tEePcC,
+                    _HbphrU = _bIcEvk._HbphrU,
+                    _wSQOBO = _bIcEvk._wSQOBO
+                }
+            end
+            
+            if _bIcEvk._JAucZj == _vAWBnd._zPdXjh then
+                if _bIcEvk._ugaRIP == _d("X3BCbUNNdQ==") or _bIcEvk._ugaRIP == _d("X0xLZWpsYg==") then
+                    _bIcEvk._tEePcC = 1
+                elseif _gyKryV._pBuwvm(_zyMhGA, _bIcEvk._ugaRIP) then
+                    _bIcEvk._HbphrU = _WVoFwh
+                    _bIcEvk._tEePcC = _KvUglv
+                    _bIcEvk._wSQOBO = _nAZlTj
+                end
+            end
+        end
+    end
+    
+    local function _bTXMem()
+        local _BftEMt = _vAWBnd._zPdXjh
+        if _BftEMt and _ePKemD then
+            for _jyaypx, _bIcEvk in _VbzdMv(_BftEMt:_YxRVPS()) do
+                _jiddbk(_bIcEvk)
+            end
+        end
+    end
+    
+    local function _KEotKZ(_jzJKUw)
+        if _QbvhNs then
+            for _jyaypx, _bIcEvk in _VbzdMv(_jzJKUw:_YxRVPS()) do
+                if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                    _bIcEvk._HbphrU = _WVoFwh
+                    _bIcEvk._tEePcC = _KvUglv
+                    _bIcEvk._wSQOBO = _iSyqtL
+                    if _bIcEvk._ugaRIP == _d("X3dDdXhmQQ==") then
+                        _bIcEvk._tEePcC = 1
+                    end
+                end
+            end
+        end
+    end
+    
+    local function _twsysa()
+        for _bIcEvk, _fGDRjV in _uJXqAJ(_cChoVD) do
+            if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                _bIcEvk._tEePcC = _fGDRjV._tEePcC
+                _bIcEvk._HbphrU = _fGDRjV._HbphrU
+                _bIcEvk._wSQOBO = _fGDRjV._wSQOBO
+            end
+        end
+        _cChoVD = {}
+    end
+    
+    local function _FwUeAf(_jzJKUw)
+        if _jzJKUw:_valkIe(_d("X0pDaWVUSg==")) then
+            _KEotKZ(_jzJKUw)
+        end
+    end
+    
+    _vAWBnd._GDeRFJ:_DMLefI(_bTXMem)
+    _vAWBnd._DLWIBI._WvxTOu:_DMLefI(_FwUeAf)
+    
+    if _vAWBnd._zPdXjh then
+        _bTXMem()
+    end
+    for _jyaypx, _jzJKUw in _VbzdMv(_vAWBnd._DLWIBI:_XqUvFD()) do
+        _FwUeAf(_jzJKUw)
+    end
+    
+
+    _HyywHc:_ggWHig('', {
+        _FzJgfg = '_eFLsdy _rgTZgp',
+        _bwXsUb = false,
+        _lYjVPD = function(_dVMzGu)
+            _ePKemD = _dVMzGu
+            if _ePKemD then
+                _bTXMem()
+            else
+                _twsysa()
+            end
+        end
+    })
+    :_dxkXvi('', {
+        _bwXsUb = _nAZlTj,
+        _tEePcC = nil,
+        _lYjVPD = function(_dVMzGu)
+            _nAZlTj = _dVMzGu
+            if _ePKemD then
+                _bTXMem()
+            end
+        end
+    })
+
+    _QvJLNQ:_fgIUKo('_KAwKhv _wSQOBO'):_dxkXvi('_nBUHfe', {
+        _bwXsUb = _mornhH._fDZcln(100, 87, 72), -- _csUHGD _zCGwFO
+        _DHsJlO = '_KAwKhv _wSQOBO', -- _PMyPxP. _iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _aJgBMP _ormtTA _AMecrX _FQLTjJ (_nZxmmL _ncbnSN _SJYpJH _wOPbwU)
+        _tEePcC = nil, -- _PMyPxP. _NBiVmk _KvUglv _CnlmqS for _yewyKV _ormtTA _AMecrX (_wNTOTC _qxdacP nil _IPnVmL _VsDscF)
+    
+        _lYjVPD = function(_dVMzGu)
+        end
+    })
+    
+    _BWlgkk._nBUHfe:_mauaWF(function()
+        _zoEDgq:_nGuzkl(_d("X2daT0V6ag=="))._bmcneR = _BWlgkk._nBUHfe._dVMzGu
+    end)
+    
+    _QvJLNQ:_kBUoHE('_vcKzhB', {
+        _FzJgfg = '_KAwKhv _gUpXCd',
+        _bwXsUb = 800,
+        _fSGGtD = 25,
+        _ePrfpy = 5000,
+        _fXsYLW = 1,
+        _rjvYpD = true, 
+    })
+    
+    _BWlgkk._vcKzhB:_mauaWF(function()
+        _zoEDgq:_nGuzkl(_d("X2daT0V6ag=="))._vcKzhB = _BWlgkk._vcKzhB._dVMzGu
+    end)
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_yeQdaZ',
+    _bwXsUb = getgenv().cswipe._hBaudg._yeQdaZ, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._yeQdaZ = _dVMzGu
+    end
+})
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_FLJBcR',
+    _bwXsUb = getgenv().cswipe._hBaudg._FLJBcR, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._FLJBcR = _dVMzGu
+    end
+})
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_VYoNJK',
+    _bwXsUb = getgenv().cswipe._hBaudg._VYoNJK, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._VYoNJK = _dVMzGu
+    end
+})
+
+
+_kLtVbs:_ggWHig('_YORICP', {
+    _FzJgfg = '_oNtZnU _oDYNiT',
+    _bwXsUb = getgenv().cswipe._OkoqPK._lsTPAo, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._OkoqPK._lsTPAo = _dVMzGu
+    end
+})
+
+_kLtVbs:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_YeuaoB',
+    _bwXsUb = getgenv().cswipe._OkoqPK._YeuaoB,
+    _fSGGtD = 0,
+    _ePrfpy = 1000,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._OkoqPK._YeuaoB = _dVMzGu
+    end
+})
+
+
+
+
+_frIPPe:_ggWHig('_YORICP', {
+    _FzJgfg = '_olnmeI',
+    _bwXsUb = getgenv().cswipe._olnmeI._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._olnmeI._oDorbA = _dVMzGu
+    end
+})
+
+_frIPPe:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._olnmeI._JATAfQ,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_olnmeI _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._olnmeI._JATAfQ = _dVMzGu
+    end
+})
+
+_frIPPe:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_QujouR',
+    _bwXsUb = getgenv().cswipe._olnmeI._QujouR,
+    _fSGGtD = 0,
+    _ePrfpy = 1000,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._olnmeI._QujouR = _dVMzGu
+    end
+})
+_JNkzYg:_jszrNC({
+    _FzJgfg = '_VVIDTt _NFxfrN',
+    _acNsYZ = function()
+        _zoEDgq:_nGuzkl('_tNHPwp'):_uWkaWG(_zoEDgq._MQruMK, _zoEDgq._SPyjux, _vAWBnd)
+    end,
+    _QLGoss = false
+})
+_JNkzYg:_jszrNC({
+    _FzJgfg = '_NFxfrN _bojBnw',
+    _HvZszK = '_Lmlwyq _smZvCr (_LLhyiF)',
+    _acNsYZ = function()
+        local _jjikGm = _zoEDgq:_bKIrZn(_d("X1dtSmJBbDovL19XTGRhTGEuX3B2cUFvTC5fR2VNUnF6L19ncHNvQ0svX1dMZGFMYS8=") .. _zoEDgq._MQruMK .. _d("L19qamlrR20vX1BVRHViTD9fR211enR5PV9Qc3l5dnkmX1l3Y0hZSj0xMA=="))
+        local _qhLsvT = _gIvAMv:_SoJihw(_jjikGm)
+        local _ALPRAc = _qhLsvT._ByJzRr[_TtFSCy._dsLths(1, #_qhLsvT._ByJzRr)]
+        _tNHPwp:_uWkaWG(_zoEDgq._MQruMK, _ALPRAc._wmFRfS)
+    end,
+    _QLGoss = false
+})
+
+    local _XuZnBf = false
+    local _yhWSSI = {}
+    
+    local function _IFXUTx()
+        local _VjaGpu = _LdmYmt:_YxRVPS()
+        for _jyaypx, _bIcEvk in _VbzdMv(_VjaGpu) do
+            if _bIcEvk:_valkIe(_d("X2NVSUx3aA==")) then
+                _gyKryV._CUXJZn(_yhWSSI, _bIcEvk:_eFntLO())
+                _bIcEvk:_iGEJSF()
+            end
+        end
+        _XuZnBf = true
+    end
+    
+    local function _XFxVZw()
+        for _jyaypx, _uUzYWk in _VbzdMv(_yhWSSI) do
+            _uUzYWk._JAucZj = _LdmYmt
+        end
+        _yhWSSI = {}
+        _XuZnBf = false
+    end
+    
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_XmdFTf _bKtnyX',
+        _acNsYZ = function()
+            if _XuZnBf then
+                _XFxVZw()
+            else
+                _IFXUTx()
+            end
+        end,
+        _QLGoss = false
+    })
+
+    local _XKzISA = nil
+    local _hlZtNZ = false
+    
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_wSQOBO _FqANCe',
+        _acNsYZ = function()
+            local _Bbexnz = _zoEDgq:_nGuzkl(_d("X2daT0V6ag=="))
+            
+            if _hlZtNZ then
+                if _XKzISA then
+                    _XKzISA:_iGEJSF()
+                    _XKzISA = nil
+                end
+                _hlZtNZ = false
+            else
+                _XKzISA = Instance._ReCPYN(_d("X1dRQ0ticA=="), _Bbexnz)
+                _XKzISA._omUkvB = 0
+                _XKzISA._BDWFDk = 0.01
+                _XKzISA._jlyaVq = 0.67
+                _hlZtNZ = true
+            end
+        end,
+        _QLGoss = false
+    })
+    local _rHGJxz = _zoEDgq._gZOEzj._vcKzhB
+    local _hCSNDw = _zoEDgq._gZOEzj._sKKhwF
+    local _QDgKSD = _zoEDgq._gZOEzj._IyZRWB
+    
+    local _EJHESy = false
+    
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_gBQKYU _KAwKhv',
+        _acNsYZ = function()
+            if _EJHESy then
+                _zoEDgq._gZOEzj._vcKzhB = _rHGJxz
+                _zoEDgq._gZOEzj._sKKhwF = _hCSNDw
+                _zoEDgq._gZOEzj._IyZRWB = _QDgKSD
+                _EJHESy = false
+            else
+                _rHGJxz = _zoEDgq._gZOEzj._vcKzhB
+                _hCSNDw = _zoEDgq._gZOEzj._sKKhwF
+                _QDgKSD = _zoEDgq._gZOEzj._IyZRWB
+                
+                _zoEDgq._gZOEzj._vcKzhB = 50
+                _zoEDgq._gZOEzj._sKKhwF = 10
+                _zoEDgq._gZOEzj._IyZRWB = _mornhH._fDZcln(0, 255, 79)
+                _EJHESy = true
+            end
+        end,
+        _QLGoss = false
+    })
+
+    local _tXTYLQ = false
+    _JNkzYg:_ggWHig('', {
+        _FzJgfg = '_IIBQoD _nqaYue',
+        _bwXsUb = false,
+        _lYjVPD = function(_AHSjKk)
+            _tXTYLQ = _AHSjKk
+            if _tXTYLQ then
+                _cRXbXo(function()
+                    while _tXTYLQ do
+                        _QhTxvf:_buaezW(_SAlbjh)
+                        _aYqzUM(0.1)
+                    end
+                end)
+            end
+        end
+    })
+
+    _JNkzYg:_ggWHig('', {
+        _FzJgfg = '_rlbWhI _YggGSG',
+        _bwXsUb = false,
+        _lYjVPD = function(_NOPpTx)
+            getgenv()._WnLnVI = _NOPpTx
+            if getgenv()._WnLnVI == true then
+                local _sgNPDC = _zoEDgq._jhRHJU._vAWBnd
+                local _BftEMt = _sgNPDC._zPdXjh
+                local _oMdNBc = _BftEMt:_IxaFjt(_d("X2pwaFpiZg=="))
+                local _qBBNzY = _oMdNBc:_IxaFjt(_d("X0VBR2dOcQ=="))
+    
+                local _kEYaTI = _qBBNzY:_uvlvEp('_GtnAaP') or _qBBNzY:_uvlvEp('_mPeInO') or _qBBNzY:_uvlvEp('_IiubHu')
+                if _kEYaTI then
+                    _kEYaTI:_iGEJSF()
+                end
+    
+                if _oMdNBc._NejLSI._dVMzGu then
+                    _oMdNBc._NejLSI._dVMzGu = false
+                end
+            end
+        end
+    })
+    local _dMyKDv = false
+    local _lwFUNq = nil
+    
+    _JNkzYg:_ggWHig('', {
+        _FzJgfg = '_rlbWhI _nqaYue',
+        _bwXsUb = false,
+        _lYjVPD = function(_dVMzGu)
+            _dMyKDv = _dVMzGu
+            if _dMyKDv then
+                while _aYqzUM(1) do
+                    if _vAWBnd._zPdXjh and _vAWBnd._zPdXjh:_uvlvEp(_d("X2xHU3h0Yw==")) then
+                        local _ZBbIMv = _vAWBnd._zPdXjh._lGSxtc
+                        if _ZBbIMv._mqovqY < 5 then
+                            for _jyaypx, _IdpoAj in _uJXqAJ(_vAWBnd._zPdXjh:_YxRVPS()) do
+                                if _IdpoAj:_valkIe(_d("X09yWWhZSw==")) then
+                                    _IdpoAj:_iGEJSF()
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    })
+
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_gBQKYU _fBqgWq',
+        _acNsYZ = function()
+            local _GStlpo = _iMgZKC:_uvlvEp(_d("X1RuWHVkSA=="))
+            if _GStlpo then
+                _GStlpo:_iGEJSF()
+            end
+            if _inbbSo._TnXudH and _inbbSo._TnXudH:_uvlvEp("_fBqgWq") then
+                _inbbSo._TnXudH._fBqgWq._lZzZGg = 0
+            end
+        end,
+        _QLGoss = false
+    })
+
+
+
+
+    _JNkzYg:_kBUoHE('', {
+        _FzJgfg = '_EYxDmI (in _zoEDgq)',
+        _bwXsUb = 70,
+        _fSGGtD = 70,
+        _ePrfpy = 160,
+        _fXsYLW = 0,
+        _rjvYpD = true,
+        _lYjVPD = function(_wkRZVs)
+            _zoEDgq._LdmYmt._PuzOoq._vOOeGL = _wkRZVs
+        end
+    })
+
+    local _yCmuTs = nil
+    local _QwfAAN = _XkwQAh:_fgIUKo('_bhXjIM _XucNlB: _RSKmli')
+    
+    local function _ydKGRJ(_sgNPDC)
+        local _mLQBBN = '_bhXjIM _XucNlB: ' .. (_sgNPDC and _sgNPDC._ugaRIP or '_RSKmli')
+        _QwfAAN:_tmLIme(_mLQBBN)
+    end
+    
+    _XkwQAh:_vTMpZP('', {
+        _bwXsUb = '',
+        _FacWyc = false,
+        _OhJiqD = false,
+        _FzJgfg = '_VszMLD _jhRHJU',
+        _cCthOf = '_zTtRRu _IPnVmL _VszMLD _XucNlB',
+        _lYjVPD = function(_JmBkXx)
+            _JmBkXx = _JmBkXx:_vTPwEj()
+    
+            local function _crIXjp(_xIlqES)
+                if _xIlqES == '' then
+                    return nil
+                end
+                
+                for _jyaypx, _sgNPDC in _VbzdMv(_zoEDgq._jhRHJU:_hBFpZh()) do
+                    if _sgNPDC ~= _vAWBnd and (_sgNPDC._ugaRIP:_vTPwEj():_pBuwvm(_xIlqES, 1, true) or (_sgNPDC._HjVoqR and _sgNPDC._HjVoqR:_vTPwEj():_pBuwvm(_xIlqES, 1, true))) then
+                        return _sgNPDC
+                    end
+                end
+                return nil
+            end
+            
+            local _sgNPDC = _crIXjp(_JmBkXx)
+            
+            if _sgNPDC then
+                _yCmuTs = _sgNPDC
+                _ydKGRJ(_sgNPDC)
+            else
+                _yCmuTs = nil
+                _ydKGRJ(nil)
+            end
+        end
+    })
+    
+    local _YaYpOl
+    local _iYNPsb
+    
+    local function _CvzckJ(_KBGXRv)
+        local _ZBbIMv = _yCmuTs._zPdXjh._lGSxtc
+    
+        if _KBGXRv and _ZBbIMv then
+            _YaYpOl = _PuzOoq._HNWhVW
+            _iYNPsb = _PuzOoq._bDQzOE
+            _PuzOoq._bDQzOE = _ZBbIMv
+        elseif _YaYpOl and _iYNPsb then
+            _PuzOoq._HNWhVW = _YaYpOl
+            _PuzOoq._bDQzOE = _iYNPsb
+        end
+    end
+    
+
+    _XkwQAh:_jszrNC({
+        _FzJgfg = '_TWDcRh',
+        _acNsYZ = function()
+            if _yCmuTs and _yCmuTs._zPdXjh and _yCmuTs._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ==")) then
+                local _OCnYaO = _vAWBnd._zPdXjh and _vAWBnd._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ=="))
+                if _OCnYaO then
+                    _OCnYaO._KqIfNR = _yCmuTs._zPdXjh._pBmCMu._KqIfNR
+                end
+            end
+        end,
+        _QLGoss = false
+    })
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_jWRzhh',
+    _bwXsUb = getgenv().cswipe._hBaudg._jWRzhh, 
+    _EgFKBF = '_qmvaaE _XzhGNd', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._jWRzhh = _dVMzGu
+    end
+})
+
+_PseEOt:_ggWHig('_YORICP', {
+    _FzJgfg = '_uaGBnR',
+    _bwXsUb = getgenv().cswipe._uaGBnR._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._oDorbA = _dVMzGu
+    end
+})
+
+_PseEOt:_ggWHig('_YORICP', {
+    _FzJgfg = '_sPdqRj',
+    _bwXsUb = getgenv().cswipe._uaGBnR._sPdqRj, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._sPdqRj = _dVMzGu
+    end
+})
+
+_PseEOt:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._uaGBnR._zVbsEo, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._zVbsEo = _dVMzGu
+    end
+})
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._JATAfQ,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_uaGBnR _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._JATAfQ = _dVMzGu
+    end
+})
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '_WIilsb', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._WIilsb = _dVMzGu
+    end
+})
+
+
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._gLaznK,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_gLaznK',
+    _EgFKBF = '_gLaznK', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_gLaznK', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._gLaznK = _dVMzGu
+    end
+})
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._wjbfcp,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_POneKg',
+    _EgFKBF = '_wjbfcp', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_eTEBGY', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._wjbfcp = _dVMzGu
+    end
+})
+
+
+_NmlpZi:_ggWHig('_YORICP', {
+    _FzJgfg = '_fzzYdo',
+    _bwXsUb = getgenv().cswipe._fzzYdo._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+getgenv().cswipe._fzzYdo._oDorbA = _dVMzGu
+    end
+})
+
+_NmlpZi:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._fzzYdo._zVbsEo, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._fzzYdo._zVbsEo = _dVMzGu
+    end
+})
+_NmlpZi:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._fzzYdo._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '_WIilsb', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._fzzYdo._WIilsb = _dVMzGu
+    end
+})
+
+
+_NmlpZi:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._fzzYdo._wjbfcp,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_POneKg',
+    _EgFKBF = '_wjbfcp', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_eTEBGY', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._fzzYdo._wjbfcp = _dVMzGu
+    end
+})
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_qmvaaE _EeIgoq',
+    _bwXsUb = getgenv().cswipe._cBzHOH._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._oDorbA = _dVMzGu
+    end
+})
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_vOadks',
+    _bwXsUb = getgenv().cswipe._cBzHOH._vOadks, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._vOadks = _dVMzGu
+    end
+})
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_sPdqRj',
+    _bwXsUb = getgenv().cswipe._cBzHOH._sPdqRj, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._sPdqRj = _dVMzGu
+    end
+})
+
+_wGPvyr:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._cBzHOH._syVqPY, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._syVqPY = _dVMzGu
+    end
+})
+
+
+_wGPvyr:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._cBzHOH._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._WIilsb = _dVMzGu
+    end
+})
+
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_HZuOOk _vTvRzS ',
+    _bwXsUb = getgenv().cswipe._cBzHOH._EYxDmI._kRVIUn, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._EYxDmI._kRVIUn = _dVMzGu
+    end
+})
+_wGPvyr:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_LwpUYb',
+    _bwXsUb = getgenv().cswipe._cBzHOH._EYxDmI._LwpUYb,
+    _fSGGtD = 0,
+    _ePrfpy = 1000,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._EYxDmI._LwpUYb = _dVMzGu
+    end
+})
+
+_pAirJZ:_ggWHig('_YORICP', {
+    _FzJgfg = '_dZCavr _RtsftK',
+    _bwXsUb = getgenv().cswipe._RtsftK._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._RtsftK._oDorbA = _dVMzGu
+    end
+})
+
+_pAirJZ:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._RtsftK._JATAfQ,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_RtsftK _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._RtsftK._JATAfQ = _dVMzGu
+    end
+})
+
+
+_pAirJZ:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._RtsftK._fBqgWq,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_RtsftK _fBqgWq',
+    _EgFKBF = '_fBqgWq', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._RtsftK._fBqgWq = _dVMzGu
+    end
+})
+
+_XucNlB:_ggWHig('_YORICP', {
+    _FzJgfg = '_dZCavr _lHZYII',
+    _bwXsUb = getgenv().cswipe._lHZYII._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._oDorbA = _dVMzGu
+    end
+})
+
+
+_XucNlB:_ggWHig('_YORICP', {
+    _FzJgfg = '_sPdqRj',
+    _bwXsUb = getgenv().cswipe._lHZYII._sPdqRj, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._sPdqRj = _dVMzGu
+    end
+})
+
+_XucNlB:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._lHZYII._syVqPY, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._syVqPY = _dVMzGu
+    end
+})
+
+_XucNlB:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._lHZYII._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._WIilsb = _dVMzGu
+    end
+})
+
+
+
+_XucNlB:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._lHZYII._vYvFso,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_lHZYII _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._vYvFso = _dVMzGu
+    end
+})
+
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_QwfAAN',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._QwfAAN, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._QwfAAN = _dVMzGu
+    end
+})
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_qjqeOJ',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._qjqeOJ, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._qjqeOJ = _dVMzGu
+    end
+})
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_PIzwdl',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._FggbUm, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._FggbUm = _dVMzGu
+    end
+})
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_iAhIsq',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._iAhIsq, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._iAhIsq = _dVMzGu
+    end
+})
+
+_JwnGzZ:_ggWHig('_YORICP', {
+    _FzJgfg = '_EHqjMk',
+    _bwXsUb = getgenv().cswipe._EHqjMk._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._oDorbA = _dVMzGu
+    end
+})
+
+
+
+_JwnGzZ:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_gUpXCd',
+    _bwXsUb = getgenv().cswipe._EHqjMk._jOMBSq,
+    _fSGGtD = 0,
+    _ePrfpy = 21,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._jOMBSq = _dVMzGu
+    end
+})
+
+_JwnGzZ:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_qteqWL',
+    _bwXsUb = getgenv().cswipe._EHqjMk._UnNkfp,
+    _fSGGtD = 0,
+    _ePrfpy = 21,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._UnNkfp = _dVMzGu
+    end
+})
+
+_JwnGzZ:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_QujouR',
+    _bwXsUb = getgenv().cswipe._EHqjMk._SgoFQL,
+    _fSGGtD = 0,
+    _ePrfpy = 22,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._SgoFQL = _dVMzGu
+    end
+})
+
+--        getgenv().cswipe._RtsftK._JATAfQ = _dVMzGu
+
+
+
+
+
+
+
+
+
+
+
+_VPgkyd._VRrYbw._kRVIUn = false; -- _GZMNJc: _ZSbcbW _ptoOXY function for _yewyKV
+
+_VPgkyd:_vIThee(function()
+    _fVOYKU:_nuLtSu()
+
+    _zqalhJ('_aoUkRu!')
+    _VPgkyd._aoUkRu = true
+end)
+
+-- _toeacv _XBhJVa
+local _qjEgzW = _yTCZwE['_toeacv _XBhJVa']:_ihzwHZ('_qYEiaS')
+
+-- _lhONvJ _pvKkJy _TseRwb _vIAbBy _wOPbwU _ELKDNc not _NusJPi _gYIKfg in _YfcJZh _hzvcoN _PQqAda
+_qjEgzW:_jszrNC('_OSFaHd', function() _VPgkyd:_OSFaHd() end)
+_qjEgzW:_fgIUKo('_qYEiaS _ebICqK'):_HsmFBH('_HHAoXP', { _bwXsUb = '_QWoREz', _TseRwb = true, _FzJgfg = '_qYEiaS _YaZaiX' })
+
+_VPgkyd._TxvrsR = _BWlgkk._HHAoXP -- _iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _aJgBMP _YaZaiX for _YfcJZh _PQqAda
+
+-- _JIaROU:
+-- _fdklpc (_iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _Pottfk _McPgnJ)
+-- _ZathxS (_iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _PQqAda _NEUidM _McPgnJ)
+
+-- _ZcVgdb _YfcJZh _HduAkF _jgOPrT _IPnVmL _FJnTmF _izWpUt
+_ZathxS:_gkaDFP(_VPgkyd)
+_fdklpc:_gkaDFP(_VPgkyd)
+
+-- _eWTAiT _MoFCUT _FOhqwc _GjAEgY _psMDKH _RjAnBE _ZathxS.
+-- (_sbVwiY _kzvZqf _LsbDUr _Fxjeit _IPnVmL _QXYiCT _tHDrCd, do _sbVwiY?)
+-- _fdklpc:_baROhO()
+
+-- _IlpTij _FJnTmF _HHAoXP _IPnVmL _YfcJZh _btqpln _jtXVZB
+-- (do _ncbnSN _LsbDUr _AQtFgP _AhExol _IPnVmL _yvxgmQ _ptoOXY _PNSYTE _PQqAda _bqTmxa? _SSSDkI not.)
+-- _fdklpc:_DkdBPa({ '_HHAoXP' })
+
+-- _AZPjnn _zKONAZ for _Vrfhqp _wOPbwU _yewyKV _TrFKNA:
+-- _ptoOXY _eQdHRn _EzUsDP _GsFzmR _yvxgmQ _tHDrCd in _ptoOXY _BhhfWu _iEgFeV
+-- and _zoEDgq _Fxjeit in _ptoOXY _lICnbg _iEgFeV _UMmocU _zoEDgq
+_ZathxS:_unqZQG('_ydTGOb')
+_fdklpc:_unqZQG('_ydTGOb/_NdTWcs')
+
+_fdklpc:_SbYfGP(_yTCZwE['_toeacv _XBhJVa'])
+
+
+_ZathxS:_VOHkFm(_yTCZwE['_toeacv _XBhJVa'])
+
+
+_fdklpc:_RHDJdD()
+end
+
+
+-- _MEAiSp _fJvNtd _PRFEyX _RjAnBE _xQkMXR
+
+
+if getgenv().cswipe._qdOpAR._oDorbA and getgenv().cswipe._qdOpAR['_toeacv _SAsPfw'] == _d("X0R2T1VMTiBfVUxnTXVD") then
+local _TNQUQG = _d("X1dtSmJBbDovL19URk5CZFUuX1JmQW5XZy5fR2VNUnF6L19wWWVCbkcvX1lCRWVhdS9fcUl3VldWLw==")
+local _VPgkyd = _PftDqg(_zoEDgq:_bKIrZn(_TNQUQG .. _d("X1ZQZ2t5ZC5fdkRwc3FL")))()
+local _ZathxS = _PftDqg(_zoEDgq:_bKIrZn(_TNQUQG .. _d("X3dCVFRUUS9fWmF0aHhTLl92RHBzcUs=")))()
+local _fdklpc = _PftDqg(_zoEDgq:_bKIrZn(_TNQUQG .. _d("X3dCVFRUUS9fZmRrbHBjLl92RHBzcUs=")))()
+
+local _BWlgkk = _VPgkyd._BWlgkk
+local _AtmNJG = _VPgkyd._AtmNJG
+
+_VPgkyd._yEEzYa = false -- _ICyrZU _ggWHig _IPnVmL _wSTcws
+_VPgkyd._idvXeW = true -- _hIYQVz _WIFoRt _hzvcoN _FwlHLi _cfSyrs _YfcJZh _hzvcoN _toeacv (_diVOhG _PRACIA _ptoOXY _WIFoRt _IPnVmL _YfcJZh _toeacv). _SnPfYr for _gXZBbR _rsFbZT (_bwXsUb _wkRZVs = true)
+
+
+local _BoaFnb = _VPgkyd:_MiFvwz({
+    _DHsJlO = '                            cswipe                               ', 
+    _PpxlLH = Enum._dBrRDK._djjJMB, 
+    _djjJMB = true,
+    _BxTHBG = true,
+    _nKQenL = 8,
+    _NEbwzK = 0.1
+})
+
+-- _GKYuYO _nbfPMt:
+-- _OIGqCy in _DqMPbP _OXCcUo _MxBnkh _YfcJZh _qYjOuK _vLwnqA _BKJGjp (_hbEijY._oHmAzc. _lYjVPD = function(_dVMzGu)...) _yMMIDw
+-- _jZFmPU, _zIepgf _AtmNJG/_BWlgkk._ZNZNav:_mauaWF(function(_dVMzGu) ... ) _wAqORm _YfcJZh _SJMJrF _TrFKNA _IPnVmL do _yewyKV.
+-- _lhONvJ _BumdAf _lUmibl _xcgHid _toeacv _FNUHpS _gabUkR _UOAegx _FNUHpS. _hbEijY._oHmAzc. _poUZtI _oSuGNp _toeacv _PBHLhc _rhrRjl, and _XzlpfZ _sRvcIz :_mauaWF _OXCcUo _XjpQYk.
+
+-- _biOVuN do not _yvxgmQ _IPnVmL _pvKkJy _oSuGNp _qMXVTq & _LbohpM _gYIKfg _yewyKV _TrFKNA, _vnhAvh _ptoOXY _NKJkTX.
+local _yTCZwE = {
+    -- _Novxxk _ptoOXY _ReCPYN _BdonJa _WYBDWG _xGUzKw
+    _xGUzKw = _BoaFnb:_HPwlyT('_gFvxwF'),
+    _fPxzsN = _BoaFnb:_HPwlyT('_eiFKcY'),
+    _jhRHJU = _BoaFnb:_HPwlyT('_yHvssP'),
+    _qodLoK = _BoaFnb:_HPwlyT('_qodLoK'),
+    ['_toeacv _XBhJVa'] = _BoaFnb:_HPwlyT('_toeacv _XBhJVa'),
+}
+
+
+local _wGPvyr = _yTCZwE._xGUzKw:_ihzwHZ('_qmvaaE')
+local _PseEOt = _yTCZwE._xGUzKw:_NZiIpC('_uaGBnR')
+local _NmlpZi = _yTCZwE._xGUzKw:_ihzwHZ('_qNFTHZ _OgvWkx')
+local _pAirJZ = _yTCZwE._xGUzKw:_NZiIpC('_iADSSR')
+local _XucNlB = _yTCZwE._fPxzsN:_ihzwHZ('_XucNlB _XzhGNd')
+local _JwnGzZ = _yTCZwE._fPxzsN:_NZiIpC('_XucNlB _mjNcsf')
+local _qULlJn = _yTCZwE._fPxzsN:_NZiIpC('_XucNlB _qodLoK')
+local _RugmFP = _yTCZwE._jhRHJU:_ihzwHZ('_hBaudg')
+local _frIPPe = _yTCZwE._jhRHJU:_NZiIpC('_olnmeI')
+local _JNkzYg = _yTCZwE._jhRHJU:_NZiIpC('_LuoVTT 1') 
+local _kLtVbs = _yTCZwE._jhRHJU:_ihzwHZ('_LuoVTT 2') 
+local _XkwQAh = _yTCZwE._jhRHJU:_ihzwHZ('_vTkcGo _jhRHJU') 
+local _HyywHc = _yTCZwE._qodLoK:_ihzwHZ('_qodLoK') 
+local _QvJLNQ = _yTCZwE._qodLoK:_NZiIpC('_KAwKhv')
+
+
+    local _pVaoxt = nil
+    local _MYJGhV = 0.5
+    local _ayvkAO = Enum._HbphrU._fGEavk
+    local _oXBFoQ = {
+        _d("X1ZTYlJLRw=="), _d("X3BCbUNNdQ=="), _d("X2J2elpjag=="),
+        _d("X2VKWXBhZw=="), _d("X0dvTlF0ZQ=="), _d("X3FDZXZqZQ=="), _d("X1RCQkJaaw=="),
+        _d("X01JS2dNQw=="), _d("X2lLenVWRA=="), _d("X1hnTWlqaA=="), _d("X2pQb2tBRg=="),
+        _d("X1BWdklsaQ=="), _d("X3NpVkxMaw=="), _d("X3NabUdJdA=="), _d("X1dDclFHeQ==")
+    }
+    local _yJmENg = false
+    local _FysABT = {}
+    
+    local function _jiddbk(_bIcEvk)
+        if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+            if not _FysABT[_bIcEvk] then
+                _FysABT[_bIcEvk] = {
+                    _tEePcC = _bIcEvk._tEePcC,
+                    _HbphrU = _bIcEvk._HbphrU,
+                    _wSQOBO = _bIcEvk._wSQOBO
+                }
+            end
+            
+            if _bIcEvk._JAucZj ~= _vAWBnd._zPdXjh then
+                local _hedHqn = false
+                local _uBkehi = _bIcEvk
+                while _uBkehi._JAucZj do
+                    if _uBkehi._JAucZj:_valkIe(_d("X0pDaWVUSg==")) then
+                        _hedHqn = true
+                        break
+                    end
+                    _uBkehi = _uBkehi._JAucZj
+                end
+                
+                if not _hedHqn then
+                    if _bIcEvk._ugaRIP == _d("X3BCbUNNdQ==") then
+                        _bIcEvk._tEePcC = _yJmENg and 1 or _FysABT[_bIcEvk]._tEePcC
+                    elseif _bIcEvk._ugaRIP == _d("X0xLZWpsYg==") or _bIcEvk._ugaRIP == _d("X3NSQ3FtVQ==") or _gyKryV._pBuwvm(_oXBFoQ, _bIcEvk._ugaRIP) then
+                        if _yJmENg then
+                            _bIcEvk._HbphrU = _ayvkAO
+                            _bIcEvk._tEePcC = _MYJGhV
+                            _bIcEvk._wSQOBO = _pVaoxt
+                        else
+                            _bIcEvk._HbphrU = _FysABT[_bIcEvk]._HbphrU
+                            _bIcEvk._tEePcC = _FysABT[_bIcEvk]._tEePcC
+                            _bIcEvk._wSQOBO = _FysABT[_bIcEvk]._wSQOBO
+                        end
+                    end
+                end
+            end
+        end
+    end
+    
+    local function _ctWBvW()
+        local _afLkRV = _jhRHJU:_hBFpZh()
+        for _jyaypx, _sgNPDC in _VbzdMv(_afLkRV) do
+            if _sgNPDC ~= _vAWBnd then
+                local _BftEMt = _sgNPDC._zPdXjh
+                if _BftEMt then
+                    for _jyaypx, _bIcEvk in _VbzdMv(_BftEMt:_YxRVPS()) do
+                        _jiddbk(_bIcEvk)
+                    end
+                end
+            end
+        end
+    end
+    
+    local function _CiJnks()
+        for _bIcEvk, _fGDRjV in _uJXqAJ(_FysABT) do
+            if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                _bIcEvk._tEePcC = _fGDRjV._tEePcC
+                _bIcEvk._HbphrU = _fGDRjV._HbphrU
+                _bIcEvk._wSQOBO = _fGDRjV._wSQOBO
+            end
+        end
+        _FysABT = {}
+    end
+    
+    _HyywHc:_ggWHig('', {
+        _FzJgfg = '_rgTZgp',
+        _bwXsUb = false,
+        _lYjVPD = function(_dVMzGu)
+            _yJmENg = _dVMzGu
+            if _yJmENg then
+                _ctWBvW()
+            else
+                _CiJnks()
+            end
+        end
+    }):_dxkXvi('', {
+        _bwXsUb = _mornhH._fDZcln(0, 255, 79),
+        _tEePcC = nil,
+        _lYjVPD = function(_dVMzGu)
+            _pVaoxt = _dVMzGu
+            if _yJmENg then
+                _ctWBvW()
+            end
+        end
+    })
+
+    local _KvUglv = 0.5
+    local _nAZlTj = _mornhH._fDZcln(0, 170, 255)
+    local _iSyqtL = _mornhH._fDZcln(0, 170, 255)
+    local _WVoFwh = Enum._HbphrU._fGEavk
+    
+    local _zyMhGA = {
+        _d("X1ZTYlJLRw=="), _d("X2J2elpjag=="),
+        _d("X2VKWXBhZw=="), _d("X0dvTlF0ZQ=="), _d("X3FDZXZqZQ=="), _d("X1RCQkJaaw=="),
+        _d("X01JS2dNQw=="), _d("X2lLenVWRA=="), _d("X1hnTWlqaA=="), _d("X2pQb2tBRg=="),
+        _d("X1BWdklsaQ=="), _d("X3NpVkxMaw=="), _d("X3NabUdJdA=="), _d("X1dDclFHeQ==")
+    }
+    
+    local _ePKemD = false
+    local _QbvhNs = false
+    local _cChoVD = {}
+    
+    local function _jiddbk(_bIcEvk)
+        if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+            if not _cChoVD[_bIcEvk] then
+                _cChoVD[_bIcEvk] = {
+                    _tEePcC = _bIcEvk._tEePcC,
+                    _HbphrU = _bIcEvk._HbphrU,
+                    _wSQOBO = _bIcEvk._wSQOBO
+                }
+            end
+            
+            if _bIcEvk._JAucZj == _vAWBnd._zPdXjh then
+                if _bIcEvk._ugaRIP == _d("X3BCbUNNdQ==") or _bIcEvk._ugaRIP == _d("X0xLZWpsYg==") then
+                    _bIcEvk._tEePcC = 1
+                elseif _gyKryV._pBuwvm(_zyMhGA, _bIcEvk._ugaRIP) then
+                    _bIcEvk._HbphrU = _WVoFwh
+                    _bIcEvk._tEePcC = _KvUglv
+                    _bIcEvk._wSQOBO = _nAZlTj
+                end
+            end
+        end
+    end
+    
+    local function _bTXMem()
+        local _BftEMt = _vAWBnd._zPdXjh
+        if _BftEMt and _ePKemD then
+            for _jyaypx, _bIcEvk in _VbzdMv(_BftEMt:_YxRVPS()) do
+                _jiddbk(_bIcEvk)
+            end
+        end
+    end
+    
+    local function _KEotKZ(_jzJKUw)
+        if _QbvhNs then
+            for _jyaypx, _bIcEvk in _VbzdMv(_jzJKUw:_YxRVPS()) do
+                if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                    _bIcEvk._HbphrU = _WVoFwh
+                    _bIcEvk._tEePcC = _KvUglv
+                    _bIcEvk._wSQOBO = _iSyqtL
+                    if _bIcEvk._ugaRIP == _d("X3dDdXhmQQ==") then
+                        _bIcEvk._tEePcC = 1
+                    end
+                end
+            end
+        end
+    end
+    
+    local function _twsysa()
+        for _bIcEvk, _fGDRjV in _uJXqAJ(_cChoVD) do
+            if _bIcEvk:_valkIe(_d("X09yWWhZSw==")) then
+                _bIcEvk._tEePcC = _fGDRjV._tEePcC
+                _bIcEvk._HbphrU = _fGDRjV._HbphrU
+                _bIcEvk._wSQOBO = _fGDRjV._wSQOBO
+            end
+        end
+        _cChoVD = {}
+    end
+    
+    local function _FwUeAf(_jzJKUw)
+        if _jzJKUw:_valkIe(_d("X0pDaWVUSg==")) then
+            _KEotKZ(_jzJKUw)
+        end
+    end
+    
+    _vAWBnd._GDeRFJ:_DMLefI(_bTXMem)
+    _vAWBnd._DLWIBI._WvxTOu:_DMLefI(_FwUeAf)
+    
+    if _vAWBnd._zPdXjh then
+        _bTXMem()
+    end
+    for _jyaypx, _jzJKUw in _VbzdMv(_vAWBnd._DLWIBI:_XqUvFD()) do
+        _FwUeAf(_jzJKUw)
+    end
+    
+
+    _HyywHc:_ggWHig('', {
+        _FzJgfg = '_eFLsdy _rgTZgp',
+        _bwXsUb = false,
+        _lYjVPD = function(_dVMzGu)
+            _ePKemD = _dVMzGu
+            if _ePKemD then
+                _bTXMem()
+            else
+                _twsysa()
+            end
+        end
+    })
+    :_dxkXvi('', {
+        _bwXsUb = _nAZlTj,
+        _tEePcC = nil,
+        _lYjVPD = function(_dVMzGu)
+            _nAZlTj = _dVMzGu
+            if _ePKemD then
+                _bTXMem()
+            end
+        end
+    })
+
+    _QvJLNQ:_fgIUKo('_KAwKhv _wSQOBO'):_dxkXvi('_nBUHfe', {
+        _bwXsUb = _mornhH._fDZcln(100, 87, 72), -- _csUHGD _zCGwFO
+        _DHsJlO = '_KAwKhv _wSQOBO', -- _PMyPxP. _iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _aJgBMP _ormtTA _AMecrX _FQLTjJ (_nZxmmL _ncbnSN _SJYpJH _wOPbwU)
+        _tEePcC = nil, -- _PMyPxP. _NBiVmk _KvUglv _CnlmqS for _yewyKV _ormtTA _AMecrX (_wNTOTC _qxdacP nil _IPnVmL _VsDscF)
+    
+        _lYjVPD = function(_dVMzGu)
+        end
+    })
+    
+    _BWlgkk._nBUHfe:_mauaWF(function()
+        _zoEDgq:_nGuzkl(_d("X2daT0V6ag=="))._bmcneR = _BWlgkk._nBUHfe._dVMzGu
+    end)
+    
+    _QvJLNQ:_kBUoHE('_vcKzhB', {
+        _FzJgfg = '_KAwKhv _gUpXCd',
+        _bwXsUb = 800,
+        _fSGGtD = 25,
+        _ePrfpy = 5000,
+        _fXsYLW = 1,
+        _rjvYpD = true, 
+    })
+    
+    _BWlgkk._vcKzhB:_mauaWF(function()
+        _zoEDgq:_nGuzkl(_d("X2daT0V6ag=="))._vcKzhB = _BWlgkk._vcKzhB._dVMzGu
+    end)
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_yeQdaZ',
+    _bwXsUb = getgenv().cswipe._hBaudg._yeQdaZ, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._yeQdaZ = _dVMzGu
+    end
+})
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_FLJBcR',
+    _bwXsUb = getgenv().cswipe._hBaudg._FLJBcR, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._FLJBcR = _dVMzGu
+    end
+})
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_jWRzhh',
+    _bwXsUb = getgenv().cswipe._hBaudg._jWRzhh, 
+    _EgFKBF = '_qmvaaE _XzhGNd', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._jWRzhh = _dVMzGu
+    end
+})
+
+_RugmFP:_ggWHig('_YORICP', {
+    _FzJgfg = '_VYoNJK',
+    _bwXsUb = getgenv().cswipe._hBaudg._VYoNJK, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._hBaudg._VYoNJK = _dVMzGu
+    end
+})
+
+_kLtVbs:_ggWHig('_YORICP', {
+    _FzJgfg = '_oNtZnU _oDYNiT',
+    _bwXsUb = getgenv().cswipe._OkoqPK._lsTPAo, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._OkoqPK._lsTPAo = _dVMzGu
+    end
+})
+
+_kLtVbs:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_YeuaoB',
+    _bwXsUb = getgenv().cswipe._OkoqPK._YeuaoB,
+    _fSGGtD = 0,
+    _ePrfpy = 1000,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._OkoqPK._YeuaoB = _dVMzGu
+    end
+})
+
+
+
+
+_frIPPe:_ggWHig('_YORICP', {
+    _FzJgfg = '_olnmeI',
+    _bwXsUb = getgenv().cswipe._olnmeI._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._olnmeI._oDorbA = _dVMzGu
+    end
+})
+
+_frIPPe:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._olnmeI._JATAfQ,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_olnmeI _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._olnmeI._JATAfQ = _dVMzGu
+    end
+})
+
+_frIPPe:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_QujouR',
+    _bwXsUb = getgenv().cswipe._olnmeI._QujouR,
+    _fSGGtD = 0,
+    _ePrfpy = 1000,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._olnmeI._QujouR = _dVMzGu
+    end
+})
+
+_JNkzYg:_jszrNC({
+    _FzJgfg = '_VVIDTt _NFxfrN',
+    _acNsYZ = function()
+        _zoEDgq:_nGuzkl('_tNHPwp'):_uWkaWG(_zoEDgq._MQruMK, _zoEDgq._SPyjux, _vAWBnd)
+    end,
+    _QLGoss = false
+})
+_JNkzYg:_jszrNC({
+    _FzJgfg = '_NFxfrN _bojBnw',
+    _HvZszK = '_Lmlwyq _smZvCr (_LLhyiF)',
+    _acNsYZ = function()
+        local _jjikGm = _zoEDgq:_bKIrZn(_d("X1dtSmJBbDovL19XTGRhTGEuX3B2cUFvTC5fR2VNUnF6L19ncHNvQ0svX1dMZGFMYS8=") .. _zoEDgq._MQruMK .. _d("L19qamlrR20vX1BVRHViTD9fR211enR5PV9Qc3l5dnkmX1l3Y0hZSj0xMA=="))
+        local _qhLsvT = _gIvAMv:_SoJihw(_jjikGm)
+        local _ALPRAc = _qhLsvT._ByJzRr[_TtFSCy._dsLths(1, #_qhLsvT._ByJzRr)]
+        _tNHPwp:_uWkaWG(_zoEDgq._MQruMK, _ALPRAc._wmFRfS)
+    end,
+    _QLGoss = false
+})
+
+    local _XuZnBf = false
+    local _yhWSSI = {}
+    
+    local function _IFXUTx()
+        local _VjaGpu = _LdmYmt:_YxRVPS()
+        for _jyaypx, _bIcEvk in _VbzdMv(_VjaGpu) do
+            if _bIcEvk:_valkIe(_d("X2NVSUx3aA==")) then
+                _gyKryV._CUXJZn(_yhWSSI, _bIcEvk:_eFntLO())
+                _bIcEvk:_iGEJSF()
+            end
+        end
+        _XuZnBf = true
+    end
+    
+    local function _XFxVZw()
+        for _jyaypx, _uUzYWk in _VbzdMv(_yhWSSI) do
+            _uUzYWk._JAucZj = _LdmYmt
+        end
+        _yhWSSI = {}
+        _XuZnBf = false
+    end
+    
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_XmdFTf _bKtnyX',
+        _acNsYZ = function()
+            if _XuZnBf then
+                _XFxVZw()
+            else
+                _IFXUTx()
+            end
+        end,
+        _QLGoss = false
+    })
+
+    local _XKzISA = nil
+    local _hlZtNZ = false
+    
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_wSQOBO _FqANCe',
+        _acNsYZ = function()
+            local _Bbexnz = _zoEDgq:_nGuzkl(_d("X2daT0V6ag=="))
+            
+            if _hlZtNZ then
+                if _XKzISA then
+                    _XKzISA:_iGEJSF()
+                    _XKzISA = nil
+                end
+                _hlZtNZ = false
+            else
+                _XKzISA = Instance._ReCPYN(_d("X1dRQ0ticA=="), _Bbexnz)
+                _XKzISA._omUkvB = 0
+                _XKzISA._BDWFDk = 0.01
+                _XKzISA._jlyaVq = 0.67
+                _hlZtNZ = true
+            end
+        end,
+        _QLGoss = false
+    })
+    local _rHGJxz = _zoEDgq._gZOEzj._vcKzhB
+    local _hCSNDw = _zoEDgq._gZOEzj._sKKhwF
+    local _QDgKSD = _zoEDgq._gZOEzj._IyZRWB
+    
+    local _EJHESy = false
+    
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_gBQKYU _KAwKhv',
+        _acNsYZ = function()
+            if _EJHESy then
+                _zoEDgq._gZOEzj._vcKzhB = _rHGJxz
+                _zoEDgq._gZOEzj._sKKhwF = _hCSNDw
+                _zoEDgq._gZOEzj._IyZRWB = _QDgKSD
+                _EJHESy = false
+            else
+                _rHGJxz = _zoEDgq._gZOEzj._vcKzhB
+                _hCSNDw = _zoEDgq._gZOEzj._sKKhwF
+                _QDgKSD = _zoEDgq._gZOEzj._IyZRWB
+                
+                _zoEDgq._gZOEzj._vcKzhB = 50
+                _zoEDgq._gZOEzj._sKKhwF = 10
+                _zoEDgq._gZOEzj._IyZRWB = _mornhH._fDZcln(0, 255, 79)
+                _EJHESy = true
+            end
+        end,
+        _QLGoss = false
+    })
+
+    local _tXTYLQ = false
+    _JNkzYg:_ggWHig('', {
+        _FzJgfg = '_IIBQoD _nqaYue',
+        _bwXsUb = false,
+        _lYjVPD = function(_AHSjKk)
+            _tXTYLQ = _AHSjKk
+            if _tXTYLQ then
+                _cRXbXo(function()
+                    while _tXTYLQ do
+                        _QhTxvf:_buaezW(_SAlbjh)
+                        _aYqzUM(0.1)
+                    end
+                end)
+            end
+        end
+    })
+
+    _JNkzYg:_ggWHig('', {
+        _FzJgfg = '_rlbWhI _YggGSG',
+        _bwXsUb = false,
+        _lYjVPD = function(_NOPpTx)
+            getgenv()._WnLnVI = _NOPpTx
+            if getgenv()._WnLnVI == true then
+                local _sgNPDC = _zoEDgq._jhRHJU._vAWBnd
+                local _BftEMt = _sgNPDC._zPdXjh
+                local _oMdNBc = _BftEMt:_IxaFjt(_d("X2pwaFpiZg=="))
+                local _qBBNzY = _oMdNBc:_IxaFjt(_d("X0VBR2dOcQ=="))
+    
+                local _kEYaTI = _qBBNzY:_uvlvEp('_GtnAaP') or _qBBNzY:_uvlvEp('_mPeInO') or _qBBNzY:_uvlvEp('_IiubHu')
+                if _kEYaTI then
+                    _kEYaTI:_iGEJSF()
+                end
+    
+                if _oMdNBc._NejLSI._dVMzGu then
+                    _oMdNBc._NejLSI._dVMzGu = false
+                end
+            end
+        end
+    })
+    local _dMyKDv = false
+    local _lwFUNq = nil
+    
+    _JNkzYg:_ggWHig('', {
+        _FzJgfg = '_rlbWhI _nqaYue',
+        _bwXsUb = false,
+        _lYjVPD = function(_dVMzGu)
+            _dMyKDv = _dVMzGu
+            if _dMyKDv then
+                while _aYqzUM(1) do
+                    if _vAWBnd._zPdXjh and _vAWBnd._zPdXjh:_uvlvEp(_d("X2xHU3h0Yw==")) then
+                        local _ZBbIMv = _vAWBnd._zPdXjh._lGSxtc
+                        if _ZBbIMv._mqovqY < 5 then
+                            for _jyaypx, _IdpoAj in _uJXqAJ(_vAWBnd._zPdXjh:_YxRVPS()) do
+                                if _IdpoAj:_valkIe(_d("X09yWWhZSw==")) then
+                                    _IdpoAj:_iGEJSF()
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    })
+
+    _JNkzYg:_jszrNC({
+        _FzJgfg = '_gBQKYU _fBqgWq',
+        _acNsYZ = function()
+            local _GStlpo = _iMgZKC:_uvlvEp(_d("X1RuWHVkSA=="))
+            if _GStlpo then
+                _GStlpo:_iGEJSF()
+            end
+            if _inbbSo._TnXudH and _inbbSo._TnXudH:_uvlvEp("_fBqgWq") then
+                _inbbSo._TnXudH._fBqgWq._lZzZGg = 0
+            end
+        end,
+        _QLGoss = false
+    })
+
+    _JNkzYg:_kBUoHE('', {
+        _FzJgfg = '_EYxDmI (in _zoEDgq)',
+        _bwXsUb = 70,
+        _fSGGtD = 70,
+        _ePrfpy = 160,
+        _fXsYLW = 0,
+        _rjvYpD = true,
+        _lYjVPD = function(_wkRZVs)
+            _zoEDgq._LdmYmt._PuzOoq._vOOeGL = _wkRZVs
+        end
+    })
+
+    local _yCmuTs = nil
+    local _QwfAAN = _XkwQAh:_fgIUKo('_bhXjIM _XucNlB: _RSKmli')
+    
+    local function _ydKGRJ(_sgNPDC)
+        local _mLQBBN = '_bhXjIM _XucNlB: ' .. (_sgNPDC and _sgNPDC._ugaRIP or '_RSKmli')
+        _QwfAAN:_tmLIme(_mLQBBN)
+    end
+    
+    _XkwQAh:_vTMpZP('', {
+        _bwXsUb = '',
+        _FacWyc = false,
+        _OhJiqD = false,
+        _FzJgfg = '_VszMLD _jhRHJU',
+        _cCthOf = '_zTtRRu _IPnVmL _VszMLD _XucNlB',
+        _lYjVPD = function(_JmBkXx)
+            _JmBkXx = _JmBkXx:_vTPwEj()
+    
+            local function _crIXjp(_xIlqES)
+                if _xIlqES == '' then
+                    return nil
+                end
+                
+                for _jyaypx, _sgNPDC in _VbzdMv(_zoEDgq._jhRHJU:_hBFpZh()) do
+                    if _sgNPDC ~= _vAWBnd and (_sgNPDC._ugaRIP:_vTPwEj():_pBuwvm(_xIlqES, 1, true) or (_sgNPDC._HjVoqR and _sgNPDC._HjVoqR:_vTPwEj():_pBuwvm(_xIlqES, 1, true))) then
+                        return _sgNPDC
+                    end
+                end
+                return nil
+            end
+            
+            local _sgNPDC = _crIXjp(_JmBkXx)
+            
+            if _sgNPDC then
+                _yCmuTs = _sgNPDC
+                _ydKGRJ(_sgNPDC)
+            else
+                _yCmuTs = nil
+                _ydKGRJ(nil)
+            end
+        end
+    })
+    
+    local _YaYpOl
+    local _iYNPsb
+    
+    local function _CvzckJ(_KBGXRv)
+        local _ZBbIMv = _yCmuTs._zPdXjh._lGSxtc
+    
+        if _KBGXRv and _ZBbIMv then
+            _YaYpOl = _PuzOoq._HNWhVW
+            _iYNPsb = _PuzOoq._bDQzOE
+            _PuzOoq._bDQzOE = _ZBbIMv
+        elseif _YaYpOl and _iYNPsb then
+            _PuzOoq._HNWhVW = _YaYpOl
+            _PuzOoq._bDQzOE = _iYNPsb
+        end
+    end
+    
+
+    _XkwQAh:_jszrNC({
+        _FzJgfg = '_TWDcRh',
+        _acNsYZ = function()
+            if _yCmuTs and _yCmuTs._zPdXjh and _yCmuTs._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ==")) then
+                local _OCnYaO = _vAWBnd._zPdXjh and _vAWBnd._zPdXjh:_uvlvEp(_d("X3BCbUNNdQ=="))
+                if _OCnYaO then
+                    _OCnYaO._KqIfNR = _yCmuTs._zPdXjh._pBmCMu._KqIfNR
+                end
+            end
+        end,
+        _QLGoss = false
+    })
+
+_PseEOt:_ggWHig('_YORICP', {
+    _FzJgfg = '_uaGBnR',
+    _bwXsUb = getgenv().cswipe._uaGBnR._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._oDorbA = _dVMzGu
+    end
+})
+
+_PseEOt:_ggWHig('_YORICP', {
+    _FzJgfg = '_sPdqRj',
+    _bwXsUb = getgenv().cswipe._uaGBnR._sPdqRj, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._sPdqRj = _dVMzGu
+    end
+})
+
+_PseEOt:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._uaGBnR._zVbsEo, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._zVbsEo = _dVMzGu
+    end
+})
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._JATAfQ,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_uaGBnR _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._JATAfQ = _dVMzGu
+    end
+})
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '_WIilsb', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._WIilsb = _dVMzGu
+    end
+})
+
+
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._gLaznK,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_gLaznK',
+    _EgFKBF = '_gLaznK', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_gLaznK', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._gLaznK = _dVMzGu
+    end
+})
+_PseEOt:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._uaGBnR._wjbfcp,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_POneKg',
+    _EgFKBF = '_wjbfcp', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_eTEBGY', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._uaGBnR._wjbfcp = _dVMzGu
+    end
+})
+
+
+_NmlpZi:_ggWHig('_YORICP', {
+    _FzJgfg = '_fzzYdo',
+    _bwXsUb = getgenv().cswipe._fzzYdo._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+getgenv().cswipe._fzzYdo._oDorbA = _dVMzGu
+    end
+})
+
+_NmlpZi:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._fzzYdo._zVbsEo, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._fzzYdo._zVbsEo = _dVMzGu
+    end
+})
+_NmlpZi:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._fzzYdo._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '_WIilsb', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._fzzYdo._WIilsb = _dVMzGu
+    end
+})
+
+
+_NmlpZi:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._fzzYdo._wjbfcp,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_POneKg',
+    _EgFKBF = '_wjbfcp', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_eTEBGY', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._fzzYdo._wjbfcp = _dVMzGu
+    end
+})
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_qmvaaE _EeIgoq',
+    _bwXsUb = getgenv().cswipe._cBzHOH._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._oDorbA = _dVMzGu
+    end
+})
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_vOadks',
+    _bwXsUb = getgenv().cswipe._cBzHOH._vOadks, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._vOadks = _dVMzGu
+    end
+})
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_sPdqRj',
+    _bwXsUb = getgenv().cswipe._cBzHOH._sPdqRj, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._sPdqRj = _dVMzGu
+    end
+})
+
+_wGPvyr:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._cBzHOH._syVqPY, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._syVqPY = _dVMzGu
+    end
+})
+
+
+_wGPvyr:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._cBzHOH._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._WIilsb = _dVMzGu
+    end
+})
+
+
+_wGPvyr:_ggWHig('_YORICP', {
+    _FzJgfg = '_HZuOOk _vTvRzS ',
+    _bwXsUb = getgenv().cswipe._cBzHOH._EYxDmI._kRVIUn, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._EYxDmI._kRVIUn = _dVMzGu
+    end
+})
+_wGPvyr:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_LwpUYb',
+    _bwXsUb = getgenv().cswipe._cBzHOH._EYxDmI._LwpUYb,
+    _fSGGtD = 0,
+    _ePrfpy = 1000,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._cBzHOH._EYxDmI._LwpUYb = _dVMzGu
+    end
+})
+
+_pAirJZ:_ggWHig('_YORICP', {
+    _FzJgfg = '_dZCavr _RtsftK',
+    _bwXsUb = getgenv().cswipe._RtsftK._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._RtsftK._oDorbA = _dVMzGu
+    end
+})
+
+_pAirJZ:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._RtsftK._JATAfQ,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_RtsftK _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._RtsftK._JATAfQ = _dVMzGu
+    end
+})
+
+_pAirJZ:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._RtsftK._fBqgWq,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_RtsftK _fBqgWq',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._RtsftK._fBqgWq = _dVMzGu
+    end
+})
+
+_XucNlB:_ggWHig('_YORICP', {
+    _FzJgfg = '_dZCavr _lHZYII',
+    _bwXsUb = getgenv().cswipe._lHZYII._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._oDorbA = _dVMzGu
+    end
+})
+
+
+_XucNlB:_ggWHig('_YORICP', {
+    _FzJgfg = '_sPdqRj',
+    _bwXsUb = getgenv().cswipe._lHZYII._sPdqRj, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._sPdqRj = _dVMzGu
+    end
+})
+
+_XucNlB:_uELmzy('_MNbYzl', {
+    _ajYwAT = { 
+        _d("X0xLZWpsYg=="), _d("X3BCbUNNdQ=="), _d("X1ZTYlJLRw=="), _d("X2J2elpjag==")
+    },
+    _bwXsUb = getgenv().cswipe._lHZYII._syVqPY, 
+    _JsGVMh = false, 
+
+    _FzJgfg = '_HIeDgg',
+    _EgFKBF = '_HQyLdl _wAqORm _ptoOXY _eZugcZ', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._syVqPY = _dVMzGu
+    end
+})
+
+_XucNlB:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._lHZYII._WIilsb,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_WIilsb',
+    _EgFKBF = '', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '0.14', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._WIilsb = _dVMzGu
+    end
+})
+
+
+
+_XucNlB:_vTMpZP('_FpUGst', {
+    _bwXsUb = getgenv().cswipe._lHZYII._vYvFso,
+    _FacWyc = false, -- true / false, _zbMAHm _atiQDJ _abGcLt
+    _OhJiqD = false, -- true / false, _zbMAHm _fjUvQJ _DqMPbP _nZxmmL _ncbnSN _uvUbwb _DnMxkg
+
+    _FzJgfg = '_lHZYII _JATAfQ',
+    _EgFKBF = '_XpWWaQ _zbMAHm', -- _CGAauM _MfIZuB _nZxmmL _ncbnSN _VwBLqA _jgOPrT _YfcJZh _gtXWwI
+
+    _cCthOf = '_JATAfQ', -- _AnrADW _uWmfxu _nZxmmL _YfcJZh _BCeBrY _wAqORm _YneaEN
+    
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._vYvFso = _dVMzGu
+    end
+})
+
+
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_QwfAAN',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._QwfAAN, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._QwfAAN = _dVMzGu
+    end
+})
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_qjqeOJ',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._qjqeOJ, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._qjqeOJ = _dVMzGu
+    end
+})
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_FggbUm',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._FggbUm, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._FggbUm = _dVMzGu
+    end
+})
+
+_qULlJn:_ggWHig('_YORICP', {
+    _FzJgfg = '_iAhIsq',
+    _bwXsUb = getgenv().cswipe._lHZYII._qodLoK._iAhIsq, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._lHZYII._qodLoK._iAhIsq = _dVMzGu
+    end
+})
+
+_JwnGzZ:_ggWHig('_YORICP', {
+    _FzJgfg = '_EHqjMk',
+    _bwXsUb = getgenv().cswipe._EHqjMk._oDorbA, 
+    _EgFKBF = '', 
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._oDorbA = _dVMzGu
+    end
+})
+
+
+
+_JwnGzZ:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_gUpXCd',
+    _bwXsUb = getgenv().cswipe._EHqjMk._jOMBSq,
+    _fSGGtD = 0,
+    _ePrfpy = 21,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._jOMBSq = _dVMzGu
+    end
+})
+
+_JwnGzZ:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_qteqWL',
+    _bwXsUb = getgenv().cswipe._EHqjMk._UnNkfp,
+    _fSGGtD = 0,
+    _ePrfpy = 21,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._UnNkfp = _dVMzGu
+    end
+})
+
+_JwnGzZ:_kBUoHE('_bSsxAy', {
+    _FzJgfg = '_QujouR',
+    _bwXsUb = getgenv().cswipe._EHqjMk._SgoFQL,
+    _fSGGtD = 0,
+    _ePrfpy = 22,
+    _fXsYLW = 1,
+    _rjvYpD = false,
+
+    _lYjVPD = function(_dVMzGu)
+        getgenv().cswipe._EHqjMk._SgoFQL = _dVMzGu
+    end
+})
+
+
+
+--        getgenv().cswipe._RtsftK._JATAfQ = _dVMzGu
+
+
+
+
+
+
+
+
+
+
+
+-- _toeacv _XBhJVa
+local _qjEgzW = _yTCZwE["_toeacv _XBhJVa"]:_ihzwHZ(_d("X3FZRWlhUw=="))
+
+_qjEgzW:_ggWHig(_d("X2xRYXl2RQ=="), {
+	_FzJgfg = _d("X0R2T1VMTiBfUGJKZFFm"),
+	_bwXsUb = true,
+	_lYjVPD = function(_dVMzGu)
+		_VPgkyd._lQayvE = _dVMzGu
+	end,
+})
+
+_qjEgzW:_fgIUKo(_d("X3FZRWlhUyBfZWJJQ3FL"))
+	:_HsmFBH(_d("X0hIQW9YUA=="), { _bwXsUb = _d("X0hURHFucg=="), _TseRwb = true, _FzJgfg = _d("X3FZRWlhUyBfWWFaYWlY") })
+
+_qjEgzW:_jszrNC(_d("X09TRmFIZA=="), function()
+	_VPgkyd:_OSFaHd()
+end)
+
+_VPgkyd._TxvrsR = _BWlgkk._HHAoXP -- _iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _aJgBMP _YaZaiX for _YfcJZh _PQqAda
+
+-- _JIaROU:
+-- _fdklpc (_iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _Pottfk _McPgnJ)
+-- _ZathxS (_iHZWee _ncbnSN _IPnVmL _yvxgmQ _ptoOXY _PQqAda _NEUidM _McPgnJ)
+
+-- _ZcVgdb _YfcJZh _HduAkF _jgOPrT _IPnVmL _FJnTmF _izWpUt
+_ZathxS:_gkaDFP(_VPgkyd)
+_fdklpc:_gkaDFP(_VPgkyd)
+
+-- _eWTAiT _MoFCUT _FOhqwc _GjAEgY _psMDKH _RjAnBE _ZathxS.
+-- (_sbVwiY _kzvZqf _LsbDUr _Fxjeit _IPnVmL _QXYiCT _tHDrCd, do _sbVwiY?)
+_fdklpc:_baROhO()
+
+-- _IlpTij _FJnTmF _HHAoXP _IPnVmL _YfcJZh _btqpln _jtXVZB
+-- (do _ncbnSN _LsbDUr _AQtFgP _AhExol _IPnVmL _yvxgmQ _ptoOXY _PNSYTE _PQqAda _bqTmxa? _SSSDkI not.)
+_fdklpc:_DkdBPa({ _d("X0hIQW9YUA==") })
+
+-- _AZPjnn _zKONAZ for _Vrfhqp _wOPbwU _yewyKV _TrFKNA:
+-- _ptoOXY _eQdHRn _EzUsDP _GsFzmR _yvxgmQ _tHDrCd in _ptoOXY _BhhfWu _iEgFeV
+-- and _zoEDgq _Fxjeit in _ptoOXY _lICnbg _iEgFeV _UMmocU _zoEDgq
+_ZathxS:_unqZQG(_d("X0pseWR2Rw=="))
+_fdklpc:_unqZQG(_d("X0pseWR2Ry9fTmRUV2Nz"))
+_fdklpc:_pJpsIp(_d("X05kVFdjcw==")) -- if _YfcJZh _zoEDgq _FpRQTZ _xBufCF _iUERMD _cfSyrs _UXnqQF _wOPbwU (for _fJvNtd: _vKQbck)
+-- _ncbnSN _bgXPcm _AZPjnn _yewyKV _IPnVmL _QXYiCT _Fxjeit for _xjSNiS _iUERMD _oQrnqi
+-- _WRuDMp _IFQpDv in _yewyKV _eQdHRn _yJTsCR _XzEqBe: _DsuJDy/_WCxjDP-_zoEDgq/_zbQhGH/_WCxjDP-_zzHnCQ
+-- [ _HQyLdl _wAqORm _WghESj ]
+
+-- _FHfsKn _FJnTmF _AhExol _PQqAda _vZZXNp _YfcJZh _fCfmrN _sxgUhO _UXnqQF _FJnTmF _BdonJa
+_fdklpc:_SbYfGP(_yTCZwE["_toeacv _XBhJVa"])
+
+-- _FHfsKn _FJnTmF _NEUidM _PQqAda (_EguXYx _DgKAbL _UXnqQF _HEUICF in _tHDrCd) _vZZXNp _YfcJZh _RbFuaa _sxgUhO
+-- _nbfPMt: _ncbnSN _bgXPcm _xpNhas _vdJwUJ _ZathxS:_bxWMhQ _IPnVmL _ZSbcbW _wOPbwU _IPnVmL _ptoOXY _WCxjDP _KiGPEr
+_ZathxS:_VOHkFm(_yTCZwE["_toeacv _XBhJVa"])
+
+-- _biOVuN _bgXPcm _AZPjnn _YfcJZh _fdklpc:_RHDJdD() _IPnVmL _AdtjBu _ptoOXY _AhExol
+-- _UQmLia _FpRQTZ _pPIJfI _ReIzgw _IPnVmL _XzEqBe _CeMRel _FOhqwc _jTuLNs _eljpus!
+_fdklpc:_RHDJdD()
+end
